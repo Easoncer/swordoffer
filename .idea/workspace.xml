@@ -10,7 +10,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="leetcode_739_DailyTemperatures.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_739_DailyTemperatures.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +66,10 @@
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_647_PalindromicSubstrings.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_104_MaximumDepthofBinaryTree.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_413_ArithmeticSlices.py" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode_526_BeautifulArrangement.py" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode_226_InvertBinaryTree.py" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode_260_SingleNumberIII.py" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode_739_DailyTemperatures.py" />
       </list>
     </option>
   </component>
@@ -116,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.leetcode_762_PrimeNumberofSetBitsinBinaryRepresentation">
+  <component name="RunManager" selected="Python.leetcode_526_BeautifulArrangement">
     <configuration name="二分查找" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +150,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="leetcode_463_IslandPerimeter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leetcode_526_BeautifulArrangement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -147,7 +162,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_463_IslandPerimeter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_526_BeautifulArrangement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,19 +223,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.leetcode_463_IslandPerimeter" />
-      <item index="1" class="java.lang.String" itemvalue="Python.leetcode_540_SingleElementinaSorted Array" />
-      <item index="2" class="java.lang.String" itemvalue="Python.二分查找" />
-      <item index="3" class="java.lang.String" itemvalue="Python.leetcode_693_BinaryNumberwithAlternatingBits" />
-      <item index="4" class="java.lang.String" itemvalue="Python.leetcode_762_PrimeNumberofSetBitsinBinaryRepresentation" />
+      <item index="0" class="java.lang.String" itemvalue="Python.leetcode_540_SingleElementinaSorted Array" />
+      <item index="1" class="java.lang.String" itemvalue="Python.二分查找" />
+      <item index="2" class="java.lang.String" itemvalue="Python.leetcode_693_BinaryNumberwithAlternatingBits" />
+      <item index="3" class="java.lang.String" itemvalue="Python.leetcode_762_PrimeNumberofSetBitsinBinaryRepresentation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.leetcode_526_BeautifulArrangement" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.leetcode_762_PrimeNumberofSetBitsinBinaryRepresentation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.leetcode_693_BinaryNumberwithAlternatingBits" />
-        <item index="2" class="java.lang.String" itemvalue="Python.leetcode_540_SingleElementinaSorted Array" />
-        <item index="3" class="java.lang.String" itemvalue="Python.二分查找" />
-        <item index="4" class="java.lang.String" itemvalue="Python.leetcode_463_IslandPerimeter" />
+        <item index="0" class="java.lang.String" itemvalue="Python.leetcode_526_BeautifulArrangement" />
+        <item index="1" class="java.lang.String" itemvalue="Python.leetcode_762_PrimeNumberofSetBitsinBinaryRepresentation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.leetcode_693_BinaryNumberwithAlternatingBits" />
+        <item index="3" class="java.lang.String" itemvalue="Python.leetcode_540_SingleElementinaSorted Array" />
+        <item index="4" class="java.lang.String" itemvalue="Python.二分查找" />
       </list>
     </recent_temporary>
   </component>
@@ -251,16 +266,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2112788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3397524" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3397524" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -279,14 +295,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/全排列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/字符串的排列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -555,6 +563,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_260_SingleNumberIII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/全排列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_226_InvertBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_526_BeautifulArrangement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_739_DailyTemperatures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding />
         </state>
       </provider>
