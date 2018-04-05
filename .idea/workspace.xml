@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65f16240-1b92-4ab8-86be-09ac63228152" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/leetcode_python/leetcode.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="leetcode.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tecent.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dp_problem/tecent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+            <state relative-caret-position="303">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,6 +76,9 @@
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_520_DetectCapital.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_347_TopKFrequentElements.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode.py" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode_22_GenerateParentheses.py" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode_46_Permutations.py" />
+        <option value="$PROJECT_DIR$/dp_problem/tecent.py" />
       </list>
     </option>
   </component>
@@ -116,6 +120,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,14 +132,12 @@
             <path>
               <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
+              <item name="dp_problem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,7 +156,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.leetcode_347_TopKFrequentElements">
+  <component name="RunManager" selected="Python.tecent">
+    <configuration name="leetcode_22_GenerateParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swordoffer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_22_GenerateParentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="leetcode_347_TopKFrequentElements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,6 +188,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="swordoffer" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_347_TopKFrequentElements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode_46_Permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swordoffer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_46_Permutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,74 +229,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="leetcode_526_BeautifulArrangement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tecent" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp_problem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_526_BeautifulArrangement.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="leetcode_693_BinaryNumberwithAlternatingBits" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_693_BinaryNumberwithAlternatingBits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="leetcode_762_PrimeNumberofSetBitsinBinaryRepresentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_762_PrimeNumberofSetBitsinBinaryRepresentation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp_problem/tecent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.leetcode_693_BinaryNumberwithAlternatingBits" />
-      <item index="1" class="java.lang.String" itemvalue="Python.leetcode_762_PrimeNumberofSetBitsinBinaryRepresentation" />
-      <item index="2" class="java.lang.String" itemvalue="Python.leetcode_526_BeautifulArrangement" />
-      <item index="3" class="java.lang.String" itemvalue="Python.leetcode_520_DetectCapital" />
-      <item index="4" class="java.lang.String" itemvalue="Python.leetcode_347_TopKFrequentElements" />
+      <item index="0" class="java.lang.String" itemvalue="Python.leetcode_520_DetectCapital" />
+      <item index="1" class="java.lang.String" itemvalue="Python.leetcode_347_TopKFrequentElements" />
+      <item index="2" class="java.lang.String" itemvalue="Python.leetcode_22_GenerateParentheses" />
+      <item index="3" class="java.lang.String" itemvalue="Python.leetcode_46_Permutations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tecent" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.leetcode_347_TopKFrequentElements" />
-        <item index="1" class="java.lang.String" itemvalue="Python.leetcode_520_DetectCapital" />
-        <item index="2" class="java.lang.String" itemvalue="Python.leetcode_526_BeautifulArrangement" />
-        <item index="3" class="java.lang.String" itemvalue="Python.leetcode_762_PrimeNumberofSetBitsinBinaryRepresentation" />
-        <item index="4" class="java.lang.String" itemvalue="Python.leetcode_693_BinaryNumberwithAlternatingBits" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tecent" />
+        <item index="1" class="java.lang.String" itemvalue="Python.leetcode_46_Permutations" />
+        <item index="2" class="java.lang.String" itemvalue="Python.leetcode_22_GenerateParentheses" />
+        <item index="3" class="java.lang.String" itemvalue="Python.leetcode_347_TopKFrequentElements" />
+        <item index="4" class="java.lang.String" itemvalue="Python.leetcode_520_DetectCapital" />
       </list>
     </recent_temporary>
   </component>
@@ -296,8 +300,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2792297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39941478" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2778542" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39889959" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -316,6 +320,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/字符串的排列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -583,26 +595,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_520_DetectCapital.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_520_DetectCapital.py" />
     <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_347_TopKFrequentElements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-77">
           <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        <state relative-caret-position="442">
+          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_46_Permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_22_GenerateParentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp_problem/tecent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
