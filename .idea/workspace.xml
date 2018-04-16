@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65f16240-1b92-4ab8-86be-09ac63228152" name="Default" comment="" />
+    <list default="true" id="65f16240-1b92-4ab8-86be-09ac63228152" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="leetcode_121_BestTimetoBuyandSellStock.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_121_BestTimetoBuyandSellStock.py">
+      <file leaf-file-name="leetcode_394_DecodeString.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_394_DecodeString.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            <state relative-caret-position="314">
+              <caret line="48" column="28" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="48" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -79,6 +81,11 @@
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_78_Subsets.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_287_FindtheDuplicateNumber.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_121_BestTimetoBuyandSellStock.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode_62_UniquePaths.py" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode_102_BinaryTreeLevelOrderTraversal.py" />
+        <option value="$PROJECT_DIR$/nowcoder.py" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode_394_DecodeString.py" />
       </list>
     </option>
   </component>
@@ -132,11 +139,6 @@
             <path>
               <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="dp_problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -161,25 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.leetcode_287_FindtheDuplicateNumber">
-    <configuration name="leetcode_22_GenerateParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_22_GenerateParentheses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.leetcode_394_DecodeString">
     <configuration name="leetcode_287_FindtheDuplicateNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,7 +182,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="leetcode_46_Permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leetcode_394_DecodeString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -210,7 +194,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_46_Permutations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_394_DecodeString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode_62_UniquePaths" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swordoffer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_62_UniquePaths.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,19 +255,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.leetcode_22_GenerateParentheses" />
-      <item index="1" class="java.lang.String" itemvalue="Python.leetcode_46_Permutations" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tecent" />
-      <item index="3" class="java.lang.String" itemvalue="Python.leetcode_78_Subsets" />
-      <item index="4" class="java.lang.String" itemvalue="Python.leetcode_287_FindtheDuplicateNumber" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tecent" />
+      <item index="1" class="java.lang.String" itemvalue="Python.leetcode_78_Subsets" />
+      <item index="2" class="java.lang.String" itemvalue="Python.leetcode_287_FindtheDuplicateNumber" />
+      <item index="3" class="java.lang.String" itemvalue="Python.leetcode_62_UniquePaths" />
+      <item index="4" class="java.lang.String" itemvalue="Python.leetcode_394_DecodeString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.leetcode_287_FindtheDuplicateNumber" />
-        <item index="1" class="java.lang.String" itemvalue="Python.leetcode_78_Subsets" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tecent" />
-        <item index="3" class="java.lang.String" itemvalue="Python.leetcode_46_Permutations" />
-        <item index="4" class="java.lang.String" itemvalue="Python.leetcode_22_GenerateParentheses" />
+        <item index="0" class="java.lang.String" itemvalue="Python.leetcode_394_DecodeString" />
+        <item index="1" class="java.lang.String" itemvalue="Python.leetcode_62_UniquePaths" />
+        <item index="2" class="java.lang.String" itemvalue="Python.leetcode_287_FindtheDuplicateNumber" />
+        <item index="3" class="java.lang.String" itemvalue="Python.leetcode_78_Subsets" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tecent" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +300,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2112788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2279587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3397524" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -325,42 +327,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串的排列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/快速排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/栈的实现.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/栈的压入和弹出.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/二叉树的后序遍历.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -608,19 +574,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode.py" />
     <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_46_Permutations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,7 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -652,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,14 +614,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_121_BestTimetoBuyandSellStock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="110">
           <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_102_BinaryTreeLevelOrderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_62_UniquePaths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nowcoder.py" />
+    <entry file="file://$PROJECT_DIR$/快速排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_394_DecodeString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="48" column="28" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="48" selection-end-column="28" />
           <folding />
         </state>
       </provider>
