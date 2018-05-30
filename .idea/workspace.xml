@@ -21,11 +21,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="链表中环的入口节点.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="链表中环的入口节点.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nowcoder/链表中环的入口节点.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
+            <state relative-caret-position="351">
               <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="二叉树的下一个结点.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nowcoder/二叉树的下一个结点.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="对称二叉树.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nowcoder/对称二叉树.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="安之字形打印二叉树.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nowcoder/安之字形打印二叉树.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -46,9 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode_python/leetcode_553_OptimalDivision.py" />
-        <option value="$PROJECT_DIR$/leetcode_python/leetcode_762_PrimeNumberofSetBitsinBinaryRepresentation.py" />
-        <option value="$PROJECT_DIR$/leetcode_python/leetcode_647_PalindromicSubstrings.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_104_MaximumDepthofBinaryTree.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_413_ArithmeticSlices.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_526_BeautifulArrangement.py" />
@@ -97,6 +124,9 @@
         <option value="$PROJECT_DIR$/nowcoder/表示数值的字符串.py" />
         <option value="$PROJECT_DIR$/nowcoder/字符流中第一个不重复的字符.py" />
         <option value="$PROJECT_DIR$/nowcoder/链表中环的入口节点.py" />
+        <option value="$PROJECT_DIR$/nowcoder/二叉树的下一个结点.py" />
+        <option value="$PROJECT_DIR$/nowcoder/对称二叉树.py" />
+        <option value="$PROJECT_DIR$/nowcoder/安之字形打印二叉树.py" />
       </list>
     </option>
   </component>
@@ -179,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.字符流中第一个不重复的字符">
+  <component name="RunManager" selected="Python.安之字形打印二叉树">
     <configuration name="正则表达式的匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,7 +264,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="不用加减乘除做加法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="安之字形打印二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -246,7 +276,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/不用加减乘除做加法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nowcoder/安之字形打印二叉树.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,19 +301,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.不用加减乘除做加法" />
-      <item index="1" class="java.lang.String" itemvalue="Python.构建乘积数组" />
-      <item index="2" class="java.lang.String" itemvalue="Python.正则表达式的匹配" />
-      <item index="3" class="java.lang.String" itemvalue="Python.表示数值的字符串" />
-      <item index="4" class="java.lang.String" itemvalue="Python.字符流中第一个不重复的字符" />
+      <item index="0" class="java.lang.String" itemvalue="Python.构建乘积数组" />
+      <item index="1" class="java.lang.String" itemvalue="Python.正则表达式的匹配" />
+      <item index="2" class="java.lang.String" itemvalue="Python.表示数值的字符串" />
+      <item index="3" class="java.lang.String" itemvalue="Python.字符流中第一个不重复的字符" />
+      <item index="4" class="java.lang.String" itemvalue="Python.安之字形打印二叉树" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.字符流中第一个不重复的字符" />
-        <item index="1" class="java.lang.String" itemvalue="Python.表示数值的字符串" />
-        <item index="2" class="java.lang.String" itemvalue="Python.正则表达式的匹配" />
-        <item index="3" class="java.lang.String" itemvalue="Python.构建乘积数组" />
-        <item index="4" class="java.lang.String" itemvalue="Python.不用加减乘除做加法" />
+        <item index="0" class="java.lang.String" itemvalue="Python.安之字形打印二叉树" />
+        <item index="1" class="java.lang.String" itemvalue="Python.字符流中第一个不重复的字符" />
+        <item index="2" class="java.lang.String" itemvalue="Python.表示数值的字符串" />
+        <item index="3" class="java.lang.String" itemvalue="Python.正则表达式的匹配" />
+        <item index="4" class="java.lang.String" itemvalue="Python.构建乘积数组" />
       </list>
     </recent_temporary>
   </component>
@@ -343,27 +373,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_413_ArithmeticSlices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_260_SingleNumberIII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_226_InvertBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_526_BeautifulArrangement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -690,8 +699,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nowcoder/链表中环的入口节点.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
+        <state relative-caret-position="351">
           <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nowcoder/二叉树的下一个结点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nowcoder/对称二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nowcoder/安之字形打印二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding />
         </state>
       </provider>
