@@ -35,9 +35,9 @@ class Solution:
     def midTraversal(self, root):
         if not root:
             return
-        self.midTraversal(root.left)
-        self.arr.append(root)
-        self.midTraversal(root.right)
+        self.midTraversal(root.left)
+        self.arr.append(root)
+        self.midTraversal(root.right)
 
 if __name__ == '__main__':
     pass
