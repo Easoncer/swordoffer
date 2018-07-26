@@ -35,7 +35,7 @@ class Solution:
             return True
         else:
             return False
-        return (self.IsBalanced_Solution(pRoot.left)) and (self.IsBalanced_Solution(pRoot.right))
+        return (IsBalanced_Solution(pRoot.left)) and (IsBalanced_Solution(pRoot.right))
 
 if __name__ == '__main__':
     pass
