@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65f16240-1b92-4ab8-86be-09ac63228152" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/nowcoder/平衡二叉树.py" afterPath="$PROJECT_DIR$/nowcoder/平衡二叉树.py" />
-    </list>
+    <list default="true" id="65f16240-1b92-4ab8-86be-09ac63228152" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,81 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="56_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coder2/56_2.py">
+      <file leaf-file-name="leetcode_300_LongestIncreasingSubsequence.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_300_LongestIncreasingSubsequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-291">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="7">
+              <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcode_17_LetterCombinationsofaPhoneNumber.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_17_LetterCombinationsofaPhoneNumber.py">
+      <file leaf-file-name="leetcode_200_NumberofIslands.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_200_NumberofIslands.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="57.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coder2/57.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="57_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coder2/57_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="58.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coder2/58.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="58_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coder2/58_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="59.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coder2/59.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="59_2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/coder2/59_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="153">
+              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -108,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/coder2/6.py" />
         <option value="$PROJECT_DIR$/coder2/8.py" />
         <option value="$PROJECT_DIR$/coder2/9.py" />
         <option value="$PROJECT_DIR$/coder2/10.py" />
@@ -159,6 +96,7 @@
         <option value="$PROJECT_DIR$/coder2/58_2.py" />
         <option value="$PROJECT_DIR$/coder2/59.py" />
         <option value="$PROJECT_DIR$/coder2/59_2.py" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode_200_NumberofIslands.py" />
       </list>
     </option>
   </component>
@@ -212,11 +150,6 @@
             <path>
               <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="coder2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
               <item name="iter_tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -252,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.59_2">
+  <component name="RunManager" selected="Python.leetcode_200_NumberofIslands">
     <configuration name="全排列" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,24 +199,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="swordoffer" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/全排列.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="57_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder2/57_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -505,21 +420,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="leetcode_200_NumberofIslands" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swordoffer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_200_NumberofIslands.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.全排列" />
-      <item index="1" class="java.lang.String" itemvalue="Python.57_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.58" />
-      <item index="3" class="java.lang.String" itemvalue="Python.58_2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.59" />
-      <item index="5" class="java.lang.String" itemvalue="Python.59_2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.58" />
+      <item index="2" class="java.lang.String" itemvalue="Python.58_2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.59" />
+      <item index="4" class="java.lang.String" itemvalue="Python.59_2" />
+      <item index="5" class="java.lang.String" itemvalue="Python.leetcode_200_NumberofIslands" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.59_2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.59" />
-        <item index="2" class="java.lang.String" itemvalue="Python.58_2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.58" />
-        <item index="4" class="java.lang.String" itemvalue="Python.57_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.leetcode_200_NumberofIslands" />
+        <item index="1" class="java.lang.String" itemvalue="Python.59_2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.59" />
+        <item index="3" class="java.lang.String" itemvalue="Python.58_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.58" />
       </list>
     </recent_temporary>
   </component>
@@ -579,20 +512,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/coder2/21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coder2/19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="24" column="55" lean-forward="false" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/全排列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -884,22 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coder2/56_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-291">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_17_LetterCombinationsofaPhoneNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nowcoder/平衡二叉树.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
@@ -908,34 +811,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coder2/57.py">
+    <entry file="file://$PROJECT_DIR$/coder2/59_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coder2/57_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coder2/58.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coder2/58_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="85">
+          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -948,10 +827,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coder2/59_2.py">
+    <entry file="file://$PROJECT_DIR$/coder2/58_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coder2/58.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coder2/57_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coder2/57.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_17_LetterCombinationsofaPhoneNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coder2/56_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_300_LongestIncreasingSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_200_NumberofIslands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding />
         </state>
       </provider>
