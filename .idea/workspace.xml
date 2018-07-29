@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65f16240-1b92-4ab8-86be-09ac63228152" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="65f16240-1b92-4ab8-86be-09ac63228152" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,28 +14,8 @@
       <file leaf-file-name="treeNode.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/treeNode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="340">
               <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode_207_CourseSchedule.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_207_CourseSchedule.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -63,11 +41,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="60.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="60.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coder2/60.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="62.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coder2/62.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="63.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coder2/63.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,8 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/coder2/11.py" />
-        <option value="$PROJECT_DIR$/coder2/12.py" />
         <option value="$PROJECT_DIR$/coder2/13.py" />
         <option value="$PROJECT_DIR$/coder2/14.py" />
         <option value="$PROJECT_DIR$/coder2/15.py" />
@@ -139,6 +135,8 @@
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode_207_CourseSchedule.py" />
         <option value="$PROJECT_DIR$/coder2/60.py" />
+        <option value="$PROJECT_DIR$/coder2/62.py" />
+        <option value="$PROJECT_DIR$/coder2/63.py" />
       </list>
     </option>
   </component>
@@ -227,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal">
+  <component name="RunManager" selected="Python.63">
     <configuration name="全排列" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,42 +244,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="58_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder2/58_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="59" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder2/59.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="59_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,6 +257,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="swordoffer" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder2/59_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="62" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swordoffer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder2/62.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="63" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swordoffer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder2/63.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -482,19 +480,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.全排列" />
-      <item index="1" class="java.lang.String" itemvalue="Python.58_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.59" />
-      <item index="3" class="java.lang.String" itemvalue="Python.59_2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.leetcode_200_NumberofIslands" />
-      <item index="5" class="java.lang.String" itemvalue="Python.leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal" />
+      <item index="1" class="java.lang.String" itemvalue="Python.59_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.leetcode_200_NumberofIslands" />
+      <item index="3" class="java.lang.String" itemvalue="Python.leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal" />
+      <item index="4" class="java.lang.String" itemvalue="Python.62" />
+      <item index="5" class="java.lang.String" itemvalue="Python.63" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal" />
-        <item index="1" class="java.lang.String" itemvalue="Python.leetcode_200_NumberofIslands" />
-        <item index="2" class="java.lang.String" itemvalue="Python.59_2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.59" />
-        <item index="4" class="java.lang.String" itemvalue="Python.58_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.63" />
+        <item index="1" class="java.lang.String" itemvalue="Python.62" />
+        <item index="2" class="java.lang.String" itemvalue="Python.leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal" />
+        <item index="3" class="java.lang.String" itemvalue="Python.leetcode_200_NumberofIslands" />
+        <item index="4" class="java.lang.String" itemvalue="Python.59_2" />
       </list>
     </recent_temporary>
   </component>
@@ -525,6 +523,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25972995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -553,20 +552,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nowcoder/链表中环的入口节点.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nowcoder/二叉树的下一个结点.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coder2/25.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -877,22 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/treeNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_207_CourseSchedule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -917,10 +886,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/treeNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coder2/62.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coder2/60.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coder2/63.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
