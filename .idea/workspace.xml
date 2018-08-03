@@ -61,11 +61,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="63.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="63.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coder2/63.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="117">
               <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="64.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coder2/64.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coder2/11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="八皇后问题.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/八皇后问题.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="背包问题.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/背包问题.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,10 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/coder2/13.py" />
-        <option value="$PROJECT_DIR$/coder2/14.py" />
-        <option value="$PROJECT_DIR$/coder2/15.py" />
-        <option value="$PROJECT_DIR$/coder2/16.py" />
         <option value="$PROJECT_DIR$/coder2/17.py" />
         <option value="$PROJECT_DIR$/coder2/18.py" />
         <option value="$PROJECT_DIR$/coder2/19.py" />
@@ -137,11 +173,16 @@
         <option value="$PROJECT_DIR$/coder2/60.py" />
         <option value="$PROJECT_DIR$/coder2/62.py" />
         <option value="$PROJECT_DIR$/coder2/63.py" />
+        <option value="$PROJECT_DIR$/coder2/64.py" />
+        <option value="$PROJECT_DIR$/coder2/八皇后问题.py" />
+        <option value="$PROJECT_DIR$/八皇后问题.py" />
+        <option value="$PROJECT_DIR$/背包问题.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
+    <option name="x" value="203" />
+    <option name="y" value="54" />
     <option name="width" value="1280" />
     <option name="height" value="709" />
   </component>
@@ -186,21 +227,6 @@
               <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="coder2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="dp_problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swordoffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swordoffer" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -225,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.63">
+  <component name="RunManager" selected="Python.背包问题">
     <configuration name="全排列" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,19 +270,37 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="59_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="八皇后问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder2/59_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/八皇后问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="背包问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swordoffer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/背包问题.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,6 +337,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="swordoffer" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder2/63.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="64" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swordoffer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder2/64.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -442,57 +504,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="leetcode_200_NumberofIslands" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="swordoffer" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode_200_NumberofIslands.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.全排列" />
-      <item index="1" class="java.lang.String" itemvalue="Python.59_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.leetcode_200_NumberofIslands" />
-      <item index="3" class="java.lang.String" itemvalue="Python.leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal" />
-      <item index="4" class="java.lang.String" itemvalue="Python.62" />
-      <item index="5" class="java.lang.String" itemvalue="Python.63" />
+      <item index="1" class="java.lang.String" itemvalue="Python.62" />
+      <item index="2" class="java.lang.String" itemvalue="Python.63" />
+      <item index="3" class="java.lang.String" itemvalue="Python.64" />
+      <item index="4" class="java.lang.String" itemvalue="Python.八皇后问题" />
+      <item index="5" class="java.lang.String" itemvalue="Python.背包问题" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.63" />
-        <item index="1" class="java.lang.String" itemvalue="Python.62" />
-        <item index="2" class="java.lang.String" itemvalue="Python.leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal" />
-        <item index="3" class="java.lang.String" itemvalue="Python.leetcode_200_NumberofIslands" />
-        <item index="4" class="java.lang.String" itemvalue="Python.59_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.背包问题" />
+        <item index="1" class="java.lang.String" itemvalue="Python.八皇后问题" />
+        <item index="2" class="java.lang.String" itemvalue="Python.64" />
+        <item index="3" class="java.lang.String" itemvalue="Python.63" />
+        <item index="4" class="java.lang.String" itemvalue="Python.62" />
       </list>
     </recent_temporary>
   </component>
@@ -552,41 +578,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/coder2/25.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coder2/26.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="36" column="15" lean-forward="false" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coder2/39.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coder2/40.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nowcoder/二叉树中和为某一值的路径.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/快速排序.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -920,8 +911,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/coder2/63.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="117">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coder2/64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coder2/11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coder2/八皇后问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/八皇后问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/背包问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
