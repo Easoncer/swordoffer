@@ -13,19 +13,37 @@
 @time: 2018/7/12 下午5:27
 
 '''
-
+class linkNode:
+    def __init__(self, val):
+        self.next = None
+        self.data = val
 
 def printListFromTailToHead( listNode):
-    # write code here
-    if listNode is None:
+    # if listNode is None:
+    #     return []
+    # stacklist = []
+    # while listNode:
+    #     stacklist.append(listNode.val)
+    #     listNode = listNode.next
+    # stacklist.reverse()
+    # return stacklist
+
+    if not listNode:
         return []
-    stacklist = []
+
+    as_stack = []
+
     while listNode:
-        stacklist.append(listNode.val)
+        as_stack.append( listNode.data)
         listNode = listNode.next
-    stacklist.reverse()
-    return stacklist
+
+    as_stack.reverse()
+    return as_stack
 
 if __name__ == '__main__':
-    pass
+    head = linkNode(1)
+    p = linkNode(3)
+    head.next = p
+    print printListFromTailToHead(head)
+
 
