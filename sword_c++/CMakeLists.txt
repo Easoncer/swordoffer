@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.12)
+project(sword_c__)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(sword_c__ main.cpp)
+add_executable(1 二维数组中的查找.cpp)
+add_executable(2 替换空格.cpp)
+add_executable(3 从尾到头打印链表.cpp)
+add_executable(4 重建二叉树.cpp)
+add_executable(5 用两个栈实现队列.cpp)
+add_executable(6 旋转数组的最小值.cpp)
+add_executable(7 斐波那契数列.cpp)
+add_executable(8 跳台阶.cpp)
+add_executable(9 变态跳台阶.cpp)
+add_executable(10 矩形覆盖.cpp)
+add_executable(11 二进制中1的个数.cpp)
