@@ -111,6 +111,71 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 17
+
+# Build rule for target.
+17: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 17
+.PHONY : 17
+
+# fast build rule for target.
+17/fast:
+	$(MAKE) -f CMakeFiles/17.dir/build.make CMakeFiles/17.dir/build
+.PHONY : 17/fast
+
+#=============================================================================
+# Target rules for targets named 16
+
+# Build rule for target.
+16: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 16
+.PHONY : 16
+
+# fast build rule for target.
+16/fast:
+	$(MAKE) -f CMakeFiles/16.dir/build.make CMakeFiles/16.dir/build
+.PHONY : 16/fast
+
+#=============================================================================
+# Target rules for targets named 15
+
+# Build rule for target.
+15: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 15
+.PHONY : 15
+
+# fast build rule for target.
+15/fast:
+	$(MAKE) -f CMakeFiles/15.dir/build.make CMakeFiles/15.dir/build
+.PHONY : 15/fast
+
+#=============================================================================
+# Target rules for targets named 13
+
+# Build rule for target.
+13: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 13
+.PHONY : 13
+
+# fast build rule for target.
+13/fast:
+	$(MAKE) -f CMakeFiles/13.dir/build.make CMakeFiles/13.dir/build
+.PHONY : 13/fast
+
+#=============================================================================
+# Target rules for targets named 12
+
+# Build rule for target.
+12: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 12
+.PHONY : 12
+
+# fast build rule for target.
+12/fast:
+	$(MAKE) -f CMakeFiles/12.dir/build.make CMakeFiles/12.dir/build
+.PHONY : 12/fast
+
+#=============================================================================
 # Target rules for targets named 11
 
 # Build rule for target.
@@ -122,6 +187,19 @@ depend:
 11/fast:
 	$(MAKE) -f CMakeFiles/11.dir/build.make CMakeFiles/11.dir/build
 .PHONY : 11/fast
+
+#=============================================================================
+# Target rules for targets named 14
+
+# Build rule for target.
+14: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 14
+.PHONY : 14
+
+# fast build rule for target.
+14/fast:
+	$(MAKE) -f CMakeFiles/14.dir/build.make CMakeFiles/14.dir/build
+.PHONY : 14/fast
 
 #=============================================================================
 # Target rules for targets named 2
@@ -374,6 +452,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/3.dir/build.make CMakeFiles/3.dir/从尾到头打印链表.cpp.s
 .PHONY : 从尾到头打印链表.cpp.s
 
+反转链表.o: 反转链表.cpp.o
+
+.PHONY : 反转链表.o
+
+# target to build an object file
+反转链表.cpp.o:
+	$(MAKE) -f CMakeFiles/15.dir/build.make CMakeFiles/15.dir/反转链表.cpp.o
+.PHONY : 反转链表.cpp.o
+
+反转链表.i: 反转链表.cpp.i
+
+.PHONY : 反转链表.i
+
+# target to preprocess a source file
+反转链表.cpp.i:
+	$(MAKE) -f CMakeFiles/15.dir/build.make CMakeFiles/15.dir/反转链表.cpp.i
+.PHONY : 反转链表.cpp.i
+
+反转链表.s: 反转链表.cpp.s
+
+.PHONY : 反转链表.s
+
+# target to generate assembly for a file
+反转链表.cpp.s:
+	$(MAKE) -f CMakeFiles/15.dir/build.make CMakeFiles/15.dir/反转链表.cpp.s
+.PHONY : 反转链表.cpp.s
+
 变态跳台阶.o: 变态跳台阶.cpp.o
 
 .PHONY : 变态跳台阶.o
@@ -400,6 +505,60 @@ main.cpp.s:
 变态跳台阶.cpp.s:
 	$(MAKE) -f CMakeFiles/9.dir/build.make CMakeFiles/9.dir/变态跳台阶.cpp.s
 .PHONY : 变态跳台阶.cpp.s
+
+合并两个排序的链表.o: 合并两个排序的链表.cpp.o
+
+.PHONY : 合并两个排序的链表.o
+
+# target to build an object file
+合并两个排序的链表.cpp.o:
+	$(MAKE) -f CMakeFiles/16.dir/build.make CMakeFiles/16.dir/合并两个排序的链表.cpp.o
+.PHONY : 合并两个排序的链表.cpp.o
+
+合并两个排序的链表.i: 合并两个排序的链表.cpp.i
+
+.PHONY : 合并两个排序的链表.i
+
+# target to preprocess a source file
+合并两个排序的链表.cpp.i:
+	$(MAKE) -f CMakeFiles/16.dir/build.make CMakeFiles/16.dir/合并两个排序的链表.cpp.i
+.PHONY : 合并两个排序的链表.cpp.i
+
+合并两个排序的链表.s: 合并两个排序的链表.cpp.s
+
+.PHONY : 合并两个排序的链表.s
+
+# target to generate assembly for a file
+合并两个排序的链表.cpp.s:
+	$(MAKE) -f CMakeFiles/16.dir/build.make CMakeFiles/16.dir/合并两个排序的链表.cpp.s
+.PHONY : 合并两个排序的链表.cpp.s
+
+数值的整数次方.o: 数值的整数次方.cpp.o
+
+.PHONY : 数值的整数次方.o
+
+# target to build an object file
+数值的整数次方.cpp.o:
+	$(MAKE) -f CMakeFiles/12.dir/build.make CMakeFiles/12.dir/数值的整数次方.cpp.o
+.PHONY : 数值的整数次方.cpp.o
+
+数值的整数次方.i: 数值的整数次方.cpp.i
+
+.PHONY : 数值的整数次方.i
+
+# target to preprocess a source file
+数值的整数次方.cpp.i:
+	$(MAKE) -f CMakeFiles/12.dir/build.make CMakeFiles/12.dir/数值的整数次方.cpp.i
+.PHONY : 数值的整数次方.cpp.i
+
+数值的整数次方.s: 数值的整数次方.cpp.s
+
+.PHONY : 数值的整数次方.s
+
+# target to generate assembly for a file
+数值的整数次方.cpp.s:
+	$(MAKE) -f CMakeFiles/12.dir/build.make CMakeFiles/12.dir/数值的整数次方.cpp.s
+.PHONY : 数值的整数次方.cpp.s
 
 斐波那契数列.o: 斐波那契数列.cpp.o
 
@@ -482,6 +641,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/替换空格.cpp.s
 .PHONY : 替换空格.cpp.s
 
+树的子结构.o: 树的子结构.cpp.o
+
+.PHONY : 树的子结构.o
+
+# target to build an object file
+树的子结构.cpp.o:
+	$(MAKE) -f CMakeFiles/17.dir/build.make CMakeFiles/17.dir/树的子结构.cpp.o
+.PHONY : 树的子结构.cpp.o
+
+树的子结构.i: 树的子结构.cpp.i
+
+.PHONY : 树的子结构.i
+
+# target to preprocess a source file
+树的子结构.cpp.i:
+	$(MAKE) -f CMakeFiles/17.dir/build.make CMakeFiles/17.dir/树的子结构.cpp.i
+.PHONY : 树的子结构.cpp.i
+
+树的子结构.s: 树的子结构.cpp.s
+
+.PHONY : 树的子结构.s
+
+# target to generate assembly for a file
+树的子结构.cpp.s:
+	$(MAKE) -f CMakeFiles/17.dir/build.make CMakeFiles/17.dir/树的子结构.cpp.s
+.PHONY : 树的子结构.cpp.s
+
 用两个栈实现队列.o: 用两个栈实现队列.cpp.o
 
 .PHONY : 用两个栈实现队列.o
@@ -535,6 +721,33 @@ main.cpp.s:
 矩形覆盖.cpp.s:
 	$(MAKE) -f CMakeFiles/10.dir/build.make CMakeFiles/10.dir/矩形覆盖.cpp.s
 .PHONY : 矩形覆盖.cpp.s
+
+调整数组顺序使奇数位于偶数前面.o: 调整数组顺序使奇数位于偶数前面.cpp.o
+
+.PHONY : 调整数组顺序使奇数位于偶数前面.o
+
+# target to build an object file
+调整数组顺序使奇数位于偶数前面.cpp.o:
+	$(MAKE) -f CMakeFiles/13.dir/build.make CMakeFiles/13.dir/调整数组顺序使奇数位于偶数前面.cpp.o
+.PHONY : 调整数组顺序使奇数位于偶数前面.cpp.o
+
+调整数组顺序使奇数位于偶数前面.i: 调整数组顺序使奇数位于偶数前面.cpp.i
+
+.PHONY : 调整数组顺序使奇数位于偶数前面.i
+
+# target to preprocess a source file
+调整数组顺序使奇数位于偶数前面.cpp.i:
+	$(MAKE) -f CMakeFiles/13.dir/build.make CMakeFiles/13.dir/调整数组顺序使奇数位于偶数前面.cpp.i
+.PHONY : 调整数组顺序使奇数位于偶数前面.cpp.i
+
+调整数组顺序使奇数位于偶数前面.s: 调整数组顺序使奇数位于偶数前面.cpp.s
+
+.PHONY : 调整数组顺序使奇数位于偶数前面.s
+
+# target to generate assembly for a file
+调整数组顺序使奇数位于偶数前面.cpp.s:
+	$(MAKE) -f CMakeFiles/13.dir/build.make CMakeFiles/13.dir/调整数组顺序使奇数位于偶数前面.cpp.s
+.PHONY : 调整数组顺序使奇数位于偶数前面.cpp.s
 
 跳台阶.o: 跳台阶.cpp.o
 
@@ -590,6 +803,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/4.dir/build.make CMakeFiles/4.dir/重建二叉树.cpp.s
 .PHONY : 重建二叉树.cpp.s
 
+链表中倒数第k个节点.o: 链表中倒数第k个节点.cpp.o
+
+.PHONY : 链表中倒数第k个节点.o
+
+# target to build an object file
+链表中倒数第k个节点.cpp.o:
+	$(MAKE) -f CMakeFiles/14.dir/build.make CMakeFiles/14.dir/链表中倒数第k个节点.cpp.o
+.PHONY : 链表中倒数第k个节点.cpp.o
+
+链表中倒数第k个节点.i: 链表中倒数第k个节点.cpp.i
+
+.PHONY : 链表中倒数第k个节点.i
+
+# target to preprocess a source file
+链表中倒数第k个节点.cpp.i:
+	$(MAKE) -f CMakeFiles/14.dir/build.make CMakeFiles/14.dir/链表中倒数第k个节点.cpp.i
+.PHONY : 链表中倒数第k个节点.cpp.i
+
+链表中倒数第k个节点.s: 链表中倒数第k个节点.cpp.s
+
+.PHONY : 链表中倒数第k个节点.s
+
+# target to generate assembly for a file
+链表中倒数第k个节点.cpp.s:
+	$(MAKE) -f CMakeFiles/14.dir/build.make CMakeFiles/14.dir/链表中倒数第k个节点.cpp.s
+.PHONY : 链表中倒数第k个节点.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -597,8 +837,14 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
+	@echo "... 17"
+	@echo "... 16"
+	@echo "... 15"
+	@echo "... 13"
+	@echo "... 12"
 	@echo "... edit_cache"
 	@echo "... 11"
+	@echo "... 14"
 	@echo "... 2"
 	@echo "... 9"
 	@echo "... 6"
@@ -622,9 +868,18 @@ help:
 	@echo "... 从尾到头打印链表.o"
 	@echo "... 从尾到头打印链表.i"
 	@echo "... 从尾到头打印链表.s"
+	@echo "... 反转链表.o"
+	@echo "... 反转链表.i"
+	@echo "... 反转链表.s"
 	@echo "... 变态跳台阶.o"
 	@echo "... 变态跳台阶.i"
 	@echo "... 变态跳台阶.s"
+	@echo "... 合并两个排序的链表.o"
+	@echo "... 合并两个排序的链表.i"
+	@echo "... 合并两个排序的链表.s"
+	@echo "... 数值的整数次方.o"
+	@echo "... 数值的整数次方.i"
+	@echo "... 数值的整数次方.s"
 	@echo "... 斐波那契数列.o"
 	@echo "... 斐波那契数列.i"
 	@echo "... 斐波那契数列.s"
@@ -634,18 +889,27 @@ help:
 	@echo "... 替换空格.o"
 	@echo "... 替换空格.i"
 	@echo "... 替换空格.s"
+	@echo "... 树的子结构.o"
+	@echo "... 树的子结构.i"
+	@echo "... 树的子结构.s"
 	@echo "... 用两个栈实现队列.o"
 	@echo "... 用两个栈实现队列.i"
 	@echo "... 用两个栈实现队列.s"
 	@echo "... 矩形覆盖.o"
 	@echo "... 矩形覆盖.i"
 	@echo "... 矩形覆盖.s"
+	@echo "... 调整数组顺序使奇数位于偶数前面.o"
+	@echo "... 调整数组顺序使奇数位于偶数前面.i"
+	@echo "... 调整数组顺序使奇数位于偶数前面.s"
 	@echo "... 跳台阶.o"
 	@echo "... 跳台阶.i"
 	@echo "... 跳台阶.s"
 	@echo "... 重建二叉树.o"
 	@echo "... 重建二叉树.i"
 	@echo "... 重建二叉树.s"
+	@echo "... 链表中倒数第k个节点.o"
+	@echo "... 链表中倒数第k个节点.i"
+	@echo "... 链表中倒数第k个节点.s"
 .PHONY : help
 
 

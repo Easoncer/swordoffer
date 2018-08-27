@@ -1,5 +1,5 @@
 # _*_ encoding:utf-8 _*_
-
+import copy
 """
 最大堆
 """
@@ -32,6 +32,7 @@ class MaxHeap(object):
     def shiftup(self, count):
         # 将插入的元素放到合适位置，保持最大堆
         while count > 1 and self.data[(count/2)-1] < self.data[count-1]:
+            # 交换位置
             self.data[(count/2)-1], self.data[count-1] = self.data[count-1], self.data[(count/2)-1]
             count /= 2
 
@@ -47,9 +48,11 @@ class MaxHeap(object):
 
     def shiftDown(self, count):
         # 将堆的索引位置元素向下移动到合适位置，保持最大堆
+
         while 2 * count <= self.count :
             # 证明有孩子
             j = 2 * count
+            print j
             if j + 1 <= self.count:
                 # 证明有右孩子
                 if self.data[j] > self.data[j-1]:
@@ -60,3 +63,22 @@ class MaxHeap(object):
             self.data[count-1], self.data[j-1] = self.data[j-1], self.data[count-1]
             count = j
 
+    def myShiftDown(self):
+        # 表示调整为最大堆
+        i = 0
+        while 1:
+            if i*2+2 < self.count:
+                # 有右孩子
+                if self.data[i*2+1] > self.data[i*2+2]:
+                    self.data[i*2+1],self.data[i]  = self.data[i], self.data[i*2+1]
+                else:
+                    self.data[i * 2 + 2], self.data[i] = self.data[i], self.data[i * 2 + 2]
+                return 0
+
+
+
+if __name__ == "__main__":
+    maxheap = MaxHeap([1,2,3,4,5,6])
+    print maxheap.data
+    maxheap.extractMax()
+    print maxheap.data
