@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 26
+
+# Build rule for target.
+26: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 26
+.PHONY : 26
+
+# fast build rule for target.
+26/fast:
+	$(MAKE) -f CMakeFiles/26.dir/build.make CMakeFiles/26.dir/build
+.PHONY : 26/fast
+
+#=============================================================================
 # Target rules for targets named 20
 
 # Build rule for target.
@@ -423,6 +436,19 @@ depend:
 .PHONY : 8/fast
 
 #=============================================================================
+# Target rules for targets named 27
+
+# Build rule for target.
+27: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 27
+.PHONY : 27
+
+# fast build rule for target.
+27/fast:
+	$(MAKE) -f CMakeFiles/27.dir/build.make CMakeFiles/27.dir/build
+.PHONY : 27/fast
+
+#=============================================================================
 # Target rules for targets named 4
 
 # Build rule for target.
@@ -474,6 +500,33 @@ main.s: main.cpp.s
 main.cpp.s:
 	$(MAKE) -f CMakeFiles/sword_c__.dir/build.make CMakeFiles/sword_c__.dir/main.cpp.s
 .PHONY : main.cpp.s
+
+二叉搜索树与双向链表.o: 二叉搜索树与双向链表.cpp.o
+
+.PHONY : 二叉搜索树与双向链表.o
+
+# target to build an object file
+二叉搜索树与双向链表.cpp.o:
+	$(MAKE) -f CMakeFiles/26.dir/build.make CMakeFiles/26.dir/二叉搜索树与双向链表.cpp.o
+.PHONY : 二叉搜索树与双向链表.cpp.o
+
+二叉搜索树与双向链表.i: 二叉搜索树与双向链表.cpp.i
+
+.PHONY : 二叉搜索树与双向链表.i
+
+# target to preprocess a source file
+二叉搜索树与双向链表.cpp.i:
+	$(MAKE) -f CMakeFiles/26.dir/build.make CMakeFiles/26.dir/二叉搜索树与双向链表.cpp.i
+.PHONY : 二叉搜索树与双向链表.cpp.i
+
+二叉搜索树与双向链表.s: 二叉搜索树与双向链表.cpp.s
+
+.PHONY : 二叉搜索树与双向链表.s
+
+# target to generate assembly for a file
+二叉搜索树与双向链表.cpp.s:
+	$(MAKE) -f CMakeFiles/26.dir/build.make CMakeFiles/26.dir/二叉搜索树与双向链表.cpp.s
+.PHONY : 二叉搜索树与双向链表.cpp.s
 
 二叉搜索树的后序遍历.o: 二叉搜索树的后序遍历.cpp.o
 
@@ -798,6 +851,33 @@ main.cpp.s:
 复杂链表的复制.cpp.s:
 	$(MAKE) -f CMakeFiles/25.dir/build.make CMakeFiles/25.dir/复杂链表的复制.cpp.s
 .PHONY : 复杂链表的复制.cpp.s
+
+字符串的排列.o: 字符串的排列.cpp.o
+
+.PHONY : 字符串的排列.o
+
+# target to build an object file
+字符串的排列.cpp.o:
+	$(MAKE) -f CMakeFiles/27.dir/build.make CMakeFiles/27.dir/字符串的排列.cpp.o
+.PHONY : 字符串的排列.cpp.o
+
+字符串的排列.i: 字符串的排列.cpp.i
+
+.PHONY : 字符串的排列.i
+
+# target to preprocess a source file
+字符串的排列.cpp.i:
+	$(MAKE) -f CMakeFiles/27.dir/build.make CMakeFiles/27.dir/字符串的排列.cpp.i
+.PHONY : 字符串的排列.cpp.i
+
+字符串的排列.s: 字符串的排列.cpp.s
+
+.PHONY : 字符串的排列.s
+
+# target to generate assembly for a file
+字符串的排列.cpp.s:
+	$(MAKE) -f CMakeFiles/27.dir/build.make CMakeFiles/27.dir/字符串的排列.cpp.s
+.PHONY : 字符串的排列.cpp.s
 
 数值的整数次方.o: 数值的整数次方.cpp.o
 
@@ -1158,6 +1238,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... 26"
 	@echo "... 20"
 	@echo "... 14"
 	@echo "... 18"
@@ -1182,11 +1263,15 @@ help:
 	@echo "... 7"
 	@echo "... 5"
 	@echo "... 8"
+	@echo "... 27"
 	@echo "... 4"
 	@echo "... sword_c__"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... 二叉搜索树与双向链表.o"
+	@echo "... 二叉搜索树与双向链表.i"
+	@echo "... 二叉搜索树与双向链表.s"
 	@echo "... 二叉搜索树的后序遍历.o"
 	@echo "... 二叉搜索树的后序遍历.i"
 	@echo "... 二叉搜索树的后序遍历.s"
@@ -1223,6 +1308,9 @@ help:
 	@echo "... 复杂链表的复制.o"
 	@echo "... 复杂链表的复制.i"
 	@echo "... 复杂链表的复制.s"
+	@echo "... 字符串的排列.o"
+	@echo "... 字符串的排列.i"
+	@echo "... 字符串的排列.s"
 	@echo "... 数值的整数次方.o"
 	@echo "... 数值的整数次方.i"
 	@echo "... 数值的整数次方.s"
