@@ -56,17 +56,6 @@ CMAKE_BINARY_DIR = /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmak
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
@@ -77,6 +66,17 @@ edit_cache:
 edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
+
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -111,6 +111,136 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 41
+
+# Build rule for target.
+41: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 41
+.PHONY : 41
+
+# fast build rule for target.
+41/fast:
+	$(MAKE) -f CMakeFiles/41.dir/build.make CMakeFiles/41.dir/build
+.PHONY : 41/fast
+
+#=============================================================================
+# Target rules for targets named 40
+
+# Build rule for target.
+40: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 40
+.PHONY : 40
+
+# fast build rule for target.
+40/fast:
+	$(MAKE) -f CMakeFiles/40.dir/build.make CMakeFiles/40.dir/build
+.PHONY : 40/fast
+
+#=============================================================================
+# Target rules for targets named 37
+
+# Build rule for target.
+37: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 37
+.PHONY : 37
+
+# fast build rule for target.
+37/fast:
+	$(MAKE) -f CMakeFiles/37.dir/build.make CMakeFiles/37.dir/build
+.PHONY : 37/fast
+
+#=============================================================================
+# Target rules for targets named 35
+
+# Build rule for target.
+35: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 35
+.PHONY : 35
+
+# fast build rule for target.
+35/fast:
+	$(MAKE) -f CMakeFiles/35.dir/build.make CMakeFiles/35.dir/build
+.PHONY : 35/fast
+
+#=============================================================================
+# Target rules for targets named 34
+
+# Build rule for target.
+34: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 34
+.PHONY : 34
+
+# fast build rule for target.
+34/fast:
+	$(MAKE) -f CMakeFiles/34.dir/build.make CMakeFiles/34.dir/build
+.PHONY : 34/fast
+
+#=============================================================================
+# Target rules for targets named 33
+
+# Build rule for target.
+33: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 33
+.PHONY : 33
+
+# fast build rule for target.
+33/fast:
+	$(MAKE) -f CMakeFiles/33.dir/build.make CMakeFiles/33.dir/build
+.PHONY : 33/fast
+
+#=============================================================================
+# Target rules for targets named 32
+
+# Build rule for target.
+32: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 32
+.PHONY : 32
+
+# fast build rule for target.
+32/fast:
+	$(MAKE) -f CMakeFiles/32.dir/build.make CMakeFiles/32.dir/build
+.PHONY : 32/fast
+
+#=============================================================================
+# Target rules for targets named 31
+
+# Build rule for target.
+31: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 31
+.PHONY : 31
+
+# fast build rule for target.
+31/fast:
+	$(MAKE) -f CMakeFiles/31.dir/build.make CMakeFiles/31.dir/build
+.PHONY : 31/fast
+
+#=============================================================================
+# Target rules for targets named 30
+
+# Build rule for target.
+30: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 30
+.PHONY : 30
+
+# fast build rule for target.
+30/fast:
+	$(MAKE) -f CMakeFiles/30.dir/build.make CMakeFiles/30.dir/build
+.PHONY : 30/fast
+
+#=============================================================================
+# Target rules for targets named 29
+
+# Build rule for target.
+29: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 29
+.PHONY : 29
+
+# fast build rule for target.
+29/fast:
+	$(MAKE) -f CMakeFiles/29.dir/build.make CMakeFiles/29.dir/build
+.PHONY : 29/fast
+
+#=============================================================================
 # Target rules for targets named 26
 
 # Build rule for target.
@@ -124,6 +254,19 @@ depend:
 .PHONY : 26/fast
 
 #=============================================================================
+# Target rules for targets named 22
+
+# Build rule for target.
+22: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 22
+.PHONY : 22
+
+# fast build rule for target.
+22/fast:
+	$(MAKE) -f CMakeFiles/22.dir/build.make CMakeFiles/22.dir/build
+.PHONY : 22/fast
+
+#=============================================================================
 # Target rules for targets named 20
 
 # Build rule for target.
@@ -135,6 +278,19 @@ depend:
 20/fast:
 	$(MAKE) -f CMakeFiles/20.dir/build.make CMakeFiles/20.dir/build
 .PHONY : 20/fast
+
+#=============================================================================
+# Target rules for targets named 39
+
+# Build rule for target.
+39: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 39
+.PHONY : 39
+
+# fast build rule for target.
+39/fast:
+	$(MAKE) -f CMakeFiles/39.dir/build.make CMakeFiles/39.dir/build
+.PHONY : 39/fast
 
 #=============================================================================
 # Target rules for targets named 14
@@ -189,17 +345,17 @@ depend:
 .PHONY : 16/fast
 
 #=============================================================================
-# Target rules for targets named 10
+# Target rules for targets named 38
 
 # Build rule for target.
-10: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 10
-.PHONY : 10
+38: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 38
+.PHONY : 38
 
 # fast build rule for target.
-10/fast:
-	$(MAKE) -f CMakeFiles/10.dir/build.make CMakeFiles/10.dir/build
-.PHONY : 10/fast
+38/fast:
+	$(MAKE) -f CMakeFiles/38.dir/build.make CMakeFiles/38.dir/build
+.PHONY : 38/fast
 
 #=============================================================================
 # Target rules for targets named 2
@@ -213,6 +369,19 @@ depend:
 2/fast:
 	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/build
 .PHONY : 2/fast
+
+#=============================================================================
+# Target rules for targets named 10
+
+# Build rule for target.
+10: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 10
+.PHONY : 10
+
+# fast build rule for target.
+10/fast:
+	$(MAKE) -f CMakeFiles/10.dir/build.make CMakeFiles/10.dir/build
+.PHONY : 10/fast
 
 #=============================================================================
 # Target rules for targets named 15
@@ -252,6 +421,19 @@ depend:
 23/fast:
 	$(MAKE) -f CMakeFiles/23.dir/build.make CMakeFiles/23.dir/build
 .PHONY : 23/fast
+
+#=============================================================================
+# Target rules for targets named min_heap
+
+# Build rule for target.
+min_heap: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 min_heap
+.PHONY : min_heap
+
+# fast build rule for target.
+min_heap/fast:
+	$(MAKE) -f CMakeFiles/min_heap.dir/build.make CMakeFiles/min_heap.dir/build
+.PHONY : min_heap/fast
 
 #=============================================================================
 # Target rules for targets named 12
@@ -306,17 +488,17 @@ depend:
 .PHONY : 11/fast
 
 #=============================================================================
-# Target rules for targets named 22
+# Target rules for targets named 36
 
 # Build rule for target.
-22: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 22
-.PHONY : 22
+36: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 36
+.PHONY : 36
 
 # fast build rule for target.
-22/fast:
-	$(MAKE) -f CMakeFiles/22.dir/build.make CMakeFiles/22.dir/build
-.PHONY : 22/fast
+36/fast:
+	$(MAKE) -f CMakeFiles/36.dir/build.make CMakeFiles/36.dir/build
+.PHONY : 36/fast
 
 #=============================================================================
 # Target rules for targets named 24
@@ -369,6 +551,19 @@ depend:
 9/fast:
 	$(MAKE) -f CMakeFiles/9.dir/build.make CMakeFiles/9.dir/build
 .PHONY : 9/fast
+
+#=============================================================================
+# Target rules for targets named 28
+
+# Build rule for target.
+28: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 28
+.PHONY : 28
+
+# fast build rule for target.
+28/fast:
+	$(MAKE) -f CMakeFiles/28.dir/build.make CMakeFiles/28.dir/build
+.PHONY : 28/fast
 
 #=============================================================================
 # Target rules for targets named 25
@@ -501,6 +696,87 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/sword_c__.dir/build.make CMakeFiles/sword_c__.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+minHeap.o: minHeap.cpp.o
+
+.PHONY : minHeap.o
+
+# target to build an object file
+minHeap.cpp.o:
+	$(MAKE) -f CMakeFiles/min_heap.dir/build.make CMakeFiles/min_heap.dir/minHeap.cpp.o
+.PHONY : minHeap.cpp.o
+
+minHeap.i: minHeap.cpp.i
+
+.PHONY : minHeap.i
+
+# target to preprocess a source file
+minHeap.cpp.i:
+	$(MAKE) -f CMakeFiles/min_heap.dir/build.make CMakeFiles/min_heap.dir/minHeap.cpp.i
+.PHONY : minHeap.cpp.i
+
+minHeap.s: minHeap.cpp.s
+
+.PHONY : minHeap.s
+
+# target to generate assembly for a file
+minHeap.cpp.s:
+	$(MAKE) -f CMakeFiles/min_heap.dir/build.make CMakeFiles/min_heap.dir/minHeap.cpp.s
+.PHONY : minHeap.cpp.s
+
+丑数.o: 丑数.cpp.o
+
+.PHONY : 丑数.o
+
+# target to build an object file
+丑数.cpp.o:
+	$(MAKE) -f CMakeFiles/33.dir/build.make CMakeFiles/33.dir/丑数.cpp.o
+.PHONY : 丑数.cpp.o
+
+丑数.i: 丑数.cpp.i
+
+.PHONY : 丑数.i
+
+# target to preprocess a source file
+丑数.cpp.i:
+	$(MAKE) -f CMakeFiles/33.dir/build.make CMakeFiles/33.dir/丑数.cpp.i
+.PHONY : 丑数.cpp.i
+
+丑数.s: 丑数.cpp.s
+
+.PHONY : 丑数.s
+
+# target to generate assembly for a file
+丑数.cpp.s:
+	$(MAKE) -f CMakeFiles/33.dir/build.make CMakeFiles/33.dir/丑数.cpp.s
+.PHONY : 丑数.cpp.s
+
+两个链表的第一个公共结点.o: 两个链表的第一个公共结点.cpp.o
+
+.PHONY : 两个链表的第一个公共结点.o
+
+# target to build an object file
+两个链表的第一个公共结点.cpp.o:
+	$(MAKE) -f CMakeFiles/35.dir/build.make CMakeFiles/35.dir/两个链表的第一个公共结点.cpp.o
+.PHONY : 两个链表的第一个公共结点.cpp.o
+
+两个链表的第一个公共结点.i: 两个链表的第一个公共结点.cpp.i
+
+.PHONY : 两个链表的第一个公共结点.i
+
+# target to preprocess a source file
+两个链表的第一个公共结点.cpp.i:
+	$(MAKE) -f CMakeFiles/35.dir/build.make CMakeFiles/35.dir/两个链表的第一个公共结点.cpp.i
+.PHONY : 两个链表的第一个公共结点.cpp.i
+
+两个链表的第一个公共结点.s: 两个链表的第一个公共结点.cpp.s
+
+.PHONY : 两个链表的第一个公共结点.s
+
+# target to generate assembly for a file
+两个链表的第一个公共结点.cpp.s:
+	$(MAKE) -f CMakeFiles/35.dir/build.make CMakeFiles/35.dir/两个链表的第一个公共结点.cpp.s
+.PHONY : 两个链表的第一个公共结点.cpp.s
+
 二叉搜索树与双向链表.o: 二叉搜索树与双向链表.cpp.o
 
 .PHONY : 二叉搜索树与双向链表.o
@@ -581,6 +857,33 @@ main.cpp.s:
 二叉树中和为某一值的路径.cpp.s:
 	$(MAKE) -f CMakeFiles/24.dir/build.make CMakeFiles/24.dir/二叉树中和为某一值的路径.cpp.s
 .PHONY : 二叉树中和为某一值的路径.cpp.s
+
+二叉树的深度.o: 二叉树的深度.cpp.o
+
+.PHONY : 二叉树的深度.o
+
+# target to build an object file
+二叉树的深度.cpp.o:
+	$(MAKE) -f CMakeFiles/37.dir/build.make CMakeFiles/37.dir/二叉树的深度.cpp.o
+.PHONY : 二叉树的深度.cpp.o
+
+二叉树的深度.i: 二叉树的深度.cpp.i
+
+.PHONY : 二叉树的深度.i
+
+# target to preprocess a source file
+二叉树的深度.cpp.i:
+	$(MAKE) -f CMakeFiles/37.dir/build.make CMakeFiles/37.dir/二叉树的深度.cpp.i
+.PHONY : 二叉树的深度.cpp.i
+
+二叉树的深度.s: 二叉树的深度.cpp.s
+
+.PHONY : 二叉树的深度.s
+
+# target to generate assembly for a file
+二叉树的深度.cpp.s:
+	$(MAKE) -f CMakeFiles/37.dir/build.make CMakeFiles/37.dir/二叉树的深度.cpp.s
+.PHONY : 二叉树的深度.cpp.s
 
 二叉树的镜像.o: 二叉树的镜像.cpp.o
 
@@ -825,6 +1128,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/16.dir/build.make CMakeFiles/16.dir/合并两个排序的链表.cpp.s
 .PHONY : 合并两个排序的链表.cpp.s
 
+和为s的两个数字.o: 和为s的两个数字.cpp.o
+
+.PHONY : 和为s的两个数字.o
+
+# target to build an object file
+和为s的两个数字.cpp.o:
+	$(MAKE) -f CMakeFiles/41.dir/build.make CMakeFiles/41.dir/和为s的两个数字.cpp.o
+.PHONY : 和为s的两个数字.cpp.o
+
+和为s的两个数字.i: 和为s的两个数字.cpp.i
+
+.PHONY : 和为s的两个数字.i
+
+# target to preprocess a source file
+和为s的两个数字.cpp.i:
+	$(MAKE) -f CMakeFiles/41.dir/build.make CMakeFiles/41.dir/和为s的两个数字.cpp.i
+.PHONY : 和为s的两个数字.cpp.i
+
+和为s的两个数字.s: 和为s的两个数字.cpp.s
+
+.PHONY : 和为s的两个数字.s
+
+# target to generate assembly for a file
+和为s的两个数字.cpp.s:
+	$(MAKE) -f CMakeFiles/41.dir/build.make CMakeFiles/41.dir/和为s的两个数字.cpp.s
+.PHONY : 和为s的两个数字.cpp.s
+
+和为s的连续正整数.o: 和为s的连续正整数.cpp.o
+
+.PHONY : 和为s的连续正整数.o
+
+# target to build an object file
+和为s的连续正整数.cpp.o:
+	$(MAKE) -f CMakeFiles/40.dir/build.make CMakeFiles/40.dir/和为s的连续正整数.cpp.o
+.PHONY : 和为s的连续正整数.cpp.o
+
+和为s的连续正整数.i: 和为s的连续正整数.cpp.i
+
+.PHONY : 和为s的连续正整数.i
+
+# target to preprocess a source file
+和为s的连续正整数.cpp.i:
+	$(MAKE) -f CMakeFiles/40.dir/build.make CMakeFiles/40.dir/和为s的连续正整数.cpp.i
+.PHONY : 和为s的连续正整数.cpp.i
+
+和为s的连续正整数.s: 和为s的连续正整数.cpp.s
+
+.PHONY : 和为s的连续正整数.s
+
+# target to generate assembly for a file
+和为s的连续正整数.cpp.s:
+	$(MAKE) -f CMakeFiles/40.dir/build.make CMakeFiles/40.dir/和为s的连续正整数.cpp.s
+.PHONY : 和为s的连续正整数.cpp.s
+
 复杂链表的复制.o: 复杂链表的复制.cpp.o
 
 .PHONY : 复杂链表的复制.o
@@ -879,6 +1236,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/27.dir/build.make CMakeFiles/27.dir/字符串的排列.cpp.s
 .PHONY : 字符串的排列.cpp.s
 
+平衡二叉树.o: 平衡二叉树.cpp.o
+
+.PHONY : 平衡二叉树.o
+
+# target to build an object file
+平衡二叉树.cpp.o:
+	$(MAKE) -f CMakeFiles/38.dir/build.make CMakeFiles/38.dir/平衡二叉树.cpp.o
+.PHONY : 平衡二叉树.cpp.o
+
+平衡二叉树.i: 平衡二叉树.cpp.i
+
+.PHONY : 平衡二叉树.i
+
+# target to preprocess a source file
+平衡二叉树.cpp.i:
+	$(MAKE) -f CMakeFiles/38.dir/build.make CMakeFiles/38.dir/平衡二叉树.cpp.i
+.PHONY : 平衡二叉树.cpp.i
+
+平衡二叉树.s: 平衡二叉树.cpp.s
+
+.PHONY : 平衡二叉树.s
+
+# target to generate assembly for a file
+平衡二叉树.cpp.s:
+	$(MAKE) -f CMakeFiles/38.dir/build.make CMakeFiles/38.dir/平衡二叉树.cpp.s
+.PHONY : 平衡二叉树.cpp.s
+
+把数组排成最小的数.o: 把数组排成最小的数.cpp.o
+
+.PHONY : 把数组排成最小的数.o
+
+# target to build an object file
+把数组排成最小的数.cpp.o:
+	$(MAKE) -f CMakeFiles/32.dir/build.make CMakeFiles/32.dir/把数组排成最小的数.cpp.o
+.PHONY : 把数组排成最小的数.cpp.o
+
+把数组排成最小的数.i: 把数组排成最小的数.cpp.i
+
+.PHONY : 把数组排成最小的数.i
+
+# target to preprocess a source file
+把数组排成最小的数.cpp.i:
+	$(MAKE) -f CMakeFiles/32.dir/build.make CMakeFiles/32.dir/把数组排成最小的数.cpp.i
+.PHONY : 把数组排成最小的数.cpp.i
+
+把数组排成最小的数.s: 把数组排成最小的数.cpp.s
+
+.PHONY : 把数组排成最小的数.s
+
+# target to generate assembly for a file
+把数组排成最小的数.cpp.s:
+	$(MAKE) -f CMakeFiles/32.dir/build.make CMakeFiles/32.dir/把数组排成最小的数.cpp.s
+.PHONY : 把数组排成最小的数.cpp.s
+
 数值的整数次方.o: 数值的整数次方.cpp.o
 
 .PHONY : 数值的整数次方.o
@@ -905,6 +1316,114 @@ main.cpp.s:
 数值的整数次方.cpp.s:
 	$(MAKE) -f CMakeFiles/12.dir/build.make CMakeFiles/12.dir/数值的整数次方.cpp.s
 .PHONY : 数值的整数次方.cpp.s
+
+数字在排序数组中出现的次数.o: 数字在排序数组中出现的次数.cpp.o
+
+.PHONY : 数字在排序数组中出现的次数.o
+
+# target to build an object file
+数字在排序数组中出现的次数.cpp.o:
+	$(MAKE) -f CMakeFiles/36.dir/build.make CMakeFiles/36.dir/数字在排序数组中出现的次数.cpp.o
+.PHONY : 数字在排序数组中出现的次数.cpp.o
+
+数字在排序数组中出现的次数.i: 数字在排序数组中出现的次数.cpp.i
+
+.PHONY : 数字在排序数组中出现的次数.i
+
+# target to preprocess a source file
+数字在排序数组中出现的次数.cpp.i:
+	$(MAKE) -f CMakeFiles/36.dir/build.make CMakeFiles/36.dir/数字在排序数组中出现的次数.cpp.i
+.PHONY : 数字在排序数组中出现的次数.cpp.i
+
+数字在排序数组中出现的次数.s: 数字在排序数组中出现的次数.cpp.s
+
+.PHONY : 数字在排序数组中出现的次数.s
+
+# target to generate assembly for a file
+数字在排序数组中出现的次数.cpp.s:
+	$(MAKE) -f CMakeFiles/36.dir/build.make CMakeFiles/36.dir/数字在排序数组中出现的次数.cpp.s
+.PHONY : 数字在排序数组中出现的次数.cpp.s
+
+数组中出现次数超过一半的数字.o: 数组中出现次数超过一半的数字.cpp.o
+
+.PHONY : 数组中出现次数超过一半的数字.o
+
+# target to build an object file
+数组中出现次数超过一半的数字.cpp.o:
+	$(MAKE) -f CMakeFiles/28.dir/build.make CMakeFiles/28.dir/数组中出现次数超过一半的数字.cpp.o
+.PHONY : 数组中出现次数超过一半的数字.cpp.o
+
+数组中出现次数超过一半的数字.i: 数组中出现次数超过一半的数字.cpp.i
+
+.PHONY : 数组中出现次数超过一半的数字.i
+
+# target to preprocess a source file
+数组中出现次数超过一半的数字.cpp.i:
+	$(MAKE) -f CMakeFiles/28.dir/build.make CMakeFiles/28.dir/数组中出现次数超过一半的数字.cpp.i
+.PHONY : 数组中出现次数超过一半的数字.cpp.i
+
+数组中出现次数超过一半的数字.s: 数组中出现次数超过一半的数字.cpp.s
+
+.PHONY : 数组中出现次数超过一半的数字.s
+
+# target to generate assembly for a file
+数组中出现次数超过一半的数字.cpp.s:
+	$(MAKE) -f CMakeFiles/28.dir/build.make CMakeFiles/28.dir/数组中出现次数超过一半的数字.cpp.s
+.PHONY : 数组中出现次数超过一半的数字.cpp.s
+
+数组中只出现一次的数字.o: 数组中只出现一次的数字.cpp.o
+
+.PHONY : 数组中只出现一次的数字.o
+
+# target to build an object file
+数组中只出现一次的数字.cpp.o:
+	$(MAKE) -f CMakeFiles/39.dir/build.make CMakeFiles/39.dir/数组中只出现一次的数字.cpp.o
+.PHONY : 数组中只出现一次的数字.cpp.o
+
+数组中只出现一次的数字.i: 数组中只出现一次的数字.cpp.i
+
+.PHONY : 数组中只出现一次的数字.i
+
+# target to preprocess a source file
+数组中只出现一次的数字.cpp.i:
+	$(MAKE) -f CMakeFiles/39.dir/build.make CMakeFiles/39.dir/数组中只出现一次的数字.cpp.i
+.PHONY : 数组中只出现一次的数字.cpp.i
+
+数组中只出现一次的数字.s: 数组中只出现一次的数字.cpp.s
+
+.PHONY : 数组中只出现一次的数字.s
+
+# target to generate assembly for a file
+数组中只出现一次的数字.cpp.s:
+	$(MAKE) -f CMakeFiles/39.dir/build.make CMakeFiles/39.dir/数组中只出现一次的数字.cpp.s
+.PHONY : 数组中只出现一次的数字.cpp.s
+
+整数中1出现的次数.o: 整数中1出现的次数.cpp.o
+
+.PHONY : 整数中1出现的次数.o
+
+# target to build an object file
+整数中1出现的次数.cpp.o:
+	$(MAKE) -f CMakeFiles/31.dir/build.make CMakeFiles/31.dir/整数中1出现的次数.cpp.o
+.PHONY : 整数中1出现的次数.cpp.o
+
+整数中1出现的次数.i: 整数中1出现的次数.cpp.i
+
+.PHONY : 整数中1出现的次数.i
+
+# target to preprocess a source file
+整数中1出现的次数.cpp.i:
+	$(MAKE) -f CMakeFiles/31.dir/build.make CMakeFiles/31.dir/整数中1出现的次数.cpp.i
+.PHONY : 整数中1出现的次数.cpp.i
+
+整数中1出现的次数.s: 整数中1出现的次数.cpp.s
+
+.PHONY : 整数中1出现的次数.s
+
+# target to generate assembly for a file
+整数中1出现的次数.cpp.s:
+	$(MAKE) -f CMakeFiles/31.dir/build.make CMakeFiles/31.dir/整数中1出现的次数.cpp.s
+.PHONY : 整数中1出现的次数.cpp.s
 
 斐波那契数列.o: 斐波那契数列.cpp.o
 
@@ -986,6 +1505,33 @@ main.cpp.s:
 替换空格.cpp.s:
 	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/替换空格.cpp.s
 .PHONY : 替换空格.cpp.s
+
+最小的k个数.o: 最小的k个数.cpp.o
+
+.PHONY : 最小的k个数.o
+
+# target to build an object file
+最小的k个数.cpp.o:
+	$(MAKE) -f CMakeFiles/29.dir/build.make CMakeFiles/29.dir/最小的k个数.cpp.o
+.PHONY : 最小的k个数.cpp.o
+
+最小的k个数.i: 最小的k个数.cpp.i
+
+.PHONY : 最小的k个数.i
+
+# target to preprocess a source file
+最小的k个数.cpp.i:
+	$(MAKE) -f CMakeFiles/29.dir/build.make CMakeFiles/29.dir/最小的k个数.cpp.i
+.PHONY : 最小的k个数.cpp.i
+
+最小的k个数.s: 最小的k个数.cpp.s
+
+.PHONY : 最小的k个数.s
+
+# target to generate assembly for a file
+最小的k个数.cpp.s:
+	$(MAKE) -f CMakeFiles/29.dir/build.make CMakeFiles/29.dir/最小的k个数.cpp.s
+.PHONY : 最小的k个数.cpp.s
 
 栈的压入和弹出.o: 栈的压入和弹出.cpp.o
 
@@ -1095,6 +1641,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/10.dir/build.make CMakeFiles/10.dir/矩形覆盖.cpp.s
 .PHONY : 矩形覆盖.cpp.s
 
+第一个只出现一次的字符.o: 第一个只出现一次的字符.cpp.o
+
+.PHONY : 第一个只出现一次的字符.o
+
+# target to build an object file
+第一个只出现一次的字符.cpp.o:
+	$(MAKE) -f CMakeFiles/34.dir/build.make CMakeFiles/34.dir/第一个只出现一次的字符.cpp.o
+.PHONY : 第一个只出现一次的字符.cpp.o
+
+第一个只出现一次的字符.i: 第一个只出现一次的字符.cpp.i
+
+.PHONY : 第一个只出现一次的字符.i
+
+# target to preprocess a source file
+第一个只出现一次的字符.cpp.i:
+	$(MAKE) -f CMakeFiles/34.dir/build.make CMakeFiles/34.dir/第一个只出现一次的字符.cpp.i
+.PHONY : 第一个只出现一次的字符.cpp.i
+
+第一个只出现一次的字符.s: 第一个只出现一次的字符.cpp.s
+
+.PHONY : 第一个只出现一次的字符.s
+
+# target to generate assembly for a file
+第一个只出现一次的字符.cpp.s:
+	$(MAKE) -f CMakeFiles/34.dir/build.make CMakeFiles/34.dir/第一个只出现一次的字符.cpp.s
+.PHONY : 第一个只出现一次的字符.cpp.s
+
 调整数组顺序使奇数位于偶数前面.o: 调整数组顺序使奇数位于偶数前面.cpp.o
 
 .PHONY : 调整数组顺序使奇数位于偶数前面.o
@@ -1148,6 +1721,33 @@ main.cpp.s:
 跳台阶.cpp.s:
 	$(MAKE) -f CMakeFiles/8.dir/build.make CMakeFiles/8.dir/跳台阶.cpp.s
 .PHONY : 跳台阶.cpp.s
+
+连续子数组的最大和.o: 连续子数组的最大和.cpp.o
+
+.PHONY : 连续子数组的最大和.o
+
+# target to build an object file
+连续子数组的最大和.cpp.o:
+	$(MAKE) -f CMakeFiles/30.dir/build.make CMakeFiles/30.dir/连续子数组的最大和.cpp.o
+.PHONY : 连续子数组的最大和.cpp.o
+
+连续子数组的最大和.i: 连续子数组的最大和.cpp.i
+
+.PHONY : 连续子数组的最大和.i
+
+# target to preprocess a source file
+连续子数组的最大和.cpp.i:
+	$(MAKE) -f CMakeFiles/30.dir/build.make CMakeFiles/30.dir/连续子数组的最大和.cpp.i
+.PHONY : 连续子数组的最大和.cpp.i
+
+连续子数组的最大和.s: 连续子数组的最大和.cpp.s
+
+.PHONY : 连续子数组的最大和.s
+
+# target to generate assembly for a file
+连续子数组的最大和.cpp.s:
+	$(MAKE) -f CMakeFiles/30.dir/build.make CMakeFiles/30.dir/连续子数组的最大和.cpp.s
+.PHONY : 连续子数组的最大和.cpp.s
 
 重建二叉树.o: 重建二叉树.cpp.o
 
@@ -1236,28 +1836,43 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... rebuild_cache"
+	@echo "... 41"
 	@echo "... edit_cache"
+	@echo "... 40"
+	@echo "... 37"
+	@echo "... 35"
+	@echo "... 34"
+	@echo "... 33"
+	@echo "... 32"
+	@echo "... rebuild_cache"
+	@echo "... 31"
+	@echo "... 30"
+	@echo "... 29"
 	@echo "... 26"
+	@echo "... 22"
 	@echo "... 20"
+	@echo "... 39"
 	@echo "... 14"
 	@echo "... 18"
 	@echo "... 17"
 	@echo "... 16"
-	@echo "... 10"
+	@echo "... 38"
 	@echo "... 2"
+	@echo "... 10"
 	@echo "... 15"
 	@echo "... 13"
 	@echo "... 23"
+	@echo "... min_heap"
 	@echo "... 12"
 	@echo "... 19"
 	@echo "... 3"
 	@echo "... 11"
-	@echo "... 22"
+	@echo "... 36"
 	@echo "... 24"
 	@echo "... 1"
 	@echo "... 21"
 	@echo "... 9"
+	@echo "... 28"
 	@echo "... 25"
 	@echo "... 6"
 	@echo "... 7"
@@ -1269,6 +1884,15 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... minHeap.o"
+	@echo "... minHeap.i"
+	@echo "... minHeap.s"
+	@echo "... 丑数.o"
+	@echo "... 丑数.i"
+	@echo "... 丑数.s"
+	@echo "... 两个链表的第一个公共结点.o"
+	@echo "... 两个链表的第一个公共结点.i"
+	@echo "... 两个链表的第一个公共结点.s"
 	@echo "... 二叉搜索树与双向链表.o"
 	@echo "... 二叉搜索树与双向链表.i"
 	@echo "... 二叉搜索树与双向链表.s"
@@ -1278,6 +1902,9 @@ help:
 	@echo "... 二叉树中和为某一值的路径.o"
 	@echo "... 二叉树中和为某一值的路径.i"
 	@echo "... 二叉树中和为某一值的路径.s"
+	@echo "... 二叉树的深度.o"
+	@echo "... 二叉树的深度.i"
+	@echo "... 二叉树的深度.s"
 	@echo "... 二叉树的镜像.o"
 	@echo "... 二叉树的镜像.i"
 	@echo "... 二叉树的镜像.s"
@@ -1305,15 +1932,39 @@ help:
 	@echo "... 合并两个排序的链表.o"
 	@echo "... 合并两个排序的链表.i"
 	@echo "... 合并两个排序的链表.s"
+	@echo "... 和为s的两个数字.o"
+	@echo "... 和为s的两个数字.i"
+	@echo "... 和为s的两个数字.s"
+	@echo "... 和为s的连续正整数.o"
+	@echo "... 和为s的连续正整数.i"
+	@echo "... 和为s的连续正整数.s"
 	@echo "... 复杂链表的复制.o"
 	@echo "... 复杂链表的复制.i"
 	@echo "... 复杂链表的复制.s"
 	@echo "... 字符串的排列.o"
 	@echo "... 字符串的排列.i"
 	@echo "... 字符串的排列.s"
+	@echo "... 平衡二叉树.o"
+	@echo "... 平衡二叉树.i"
+	@echo "... 平衡二叉树.s"
+	@echo "... 把数组排成最小的数.o"
+	@echo "... 把数组排成最小的数.i"
+	@echo "... 把数组排成最小的数.s"
 	@echo "... 数值的整数次方.o"
 	@echo "... 数值的整数次方.i"
 	@echo "... 数值的整数次方.s"
+	@echo "... 数字在排序数组中出现的次数.o"
+	@echo "... 数字在排序数组中出现的次数.i"
+	@echo "... 数字在排序数组中出现的次数.s"
+	@echo "... 数组中出现次数超过一半的数字.o"
+	@echo "... 数组中出现次数超过一半的数字.i"
+	@echo "... 数组中出现次数超过一半的数字.s"
+	@echo "... 数组中只出现一次的数字.o"
+	@echo "... 数组中只出现一次的数字.i"
+	@echo "... 数组中只出现一次的数字.s"
+	@echo "... 整数中1出现的次数.o"
+	@echo "... 整数中1出现的次数.i"
+	@echo "... 整数中1出现的次数.s"
 	@echo "... 斐波那契数列.o"
 	@echo "... 斐波那契数列.i"
 	@echo "... 斐波那契数列.s"
@@ -1323,6 +1974,9 @@ help:
 	@echo "... 替换空格.o"
 	@echo "... 替换空格.i"
 	@echo "... 替换空格.s"
+	@echo "... 最小的k个数.o"
+	@echo "... 最小的k个数.i"
+	@echo "... 最小的k个数.s"
 	@echo "... 栈的压入和弹出.o"
 	@echo "... 栈的压入和弹出.i"
 	@echo "... 栈的压入和弹出.s"
@@ -1335,12 +1989,18 @@ help:
 	@echo "... 矩形覆盖.o"
 	@echo "... 矩形覆盖.i"
 	@echo "... 矩形覆盖.s"
+	@echo "... 第一个只出现一次的字符.o"
+	@echo "... 第一个只出现一次的字符.i"
+	@echo "... 第一个只出现一次的字符.s"
 	@echo "... 调整数组顺序使奇数位于偶数前面.o"
 	@echo "... 调整数组顺序使奇数位于偶数前面.i"
 	@echo "... 调整数组顺序使奇数位于偶数前面.s"
 	@echo "... 跳台阶.o"
 	@echo "... 跳台阶.i"
 	@echo "... 跳台阶.s"
+	@echo "... 连续子数组的最大和.o"
+	@echo "... 连续子数组的最大和.i"
+	@echo "... 连续子数组的最大和.s"
 	@echo "... 重建二叉树.o"
 	@echo "... 重建二叉树.i"
 	@echo "... 重建二叉树.s"

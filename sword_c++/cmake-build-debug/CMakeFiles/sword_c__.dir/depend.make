@@ -3,5 +3,3 @@
 
 CMakeFiles/sword_c__.dir/main.cpp.o: ../main.cpp
 
-CMakeFiles/sword_c__.dir/二维数组中的查找.cpp.o: ../二维数组中的查找.cpp
-
