@@ -111,6 +111,32 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 59
+
+# Build rule for target.
+59: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 59
+.PHONY : 59
+
+# fast build rule for target.
+59/fast:
+	$(MAKE) -f CMakeFiles/59.dir/build.make CMakeFiles/59.dir/build
+.PHONY : 59/fast
+
+#=============================================================================
+# Target rules for targets named 58
+
+# Build rule for target.
+58: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 58
+.PHONY : 58
+
+# fast build rule for target.
+58/fast:
+	$(MAKE) -f CMakeFiles/58.dir/build.make CMakeFiles/58.dir/build
+.PHONY : 58/fast
+
+#=============================================================================
 # Target rules for targets named 56
 
 # Build rule for target.
@@ -655,6 +681,19 @@ depend:
 23/fast:
 	$(MAKE) -f CMakeFiles/23.dir/build.make CMakeFiles/23.dir/build
 .PHONY : 23/fast
+
+#=============================================================================
+# Target rules for targets named 57
+
+# Build rule for target.
+57: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 57
+.PHONY : 57
+
+# fast build rule for target.
+57/fast:
+	$(MAKE) -f CMakeFiles/57.dir/build.make CMakeFiles/57.dir/build
+.PHONY : 57/fast
 
 #=============================================================================
 # Target rules for targets named min_heap
@@ -2118,6 +2157,33 @@ minHeap.cpp.s:
 	$(MAKE) -f CMakeFiles/29.dir/build.make CMakeFiles/29.dir/最小的k个数.cpp.s
 .PHONY : 最小的k个数.cpp.s
 
+机器人的运动范围.o: 机器人的运动范围.cpp.o
+
+.PHONY : 机器人的运动范围.o
+
+# target to build an object file
+机器人的运动范围.cpp.o:
+	$(MAKE) -f CMakeFiles/59.dir/build.make CMakeFiles/59.dir/机器人的运动范围.cpp.o
+.PHONY : 机器人的运动范围.cpp.o
+
+机器人的运动范围.i: 机器人的运动范围.cpp.i
+
+.PHONY : 机器人的运动范围.i
+
+# target to preprocess a source file
+机器人的运动范围.cpp.i:
+	$(MAKE) -f CMakeFiles/59.dir/build.make CMakeFiles/59.dir/机器人的运动范围.cpp.i
+.PHONY : 机器人的运动范围.cpp.i
+
+机器人的运动范围.s: 机器人的运动范围.cpp.s
+
+.PHONY : 机器人的运动范围.s
+
+# target to generate assembly for a file
+机器人的运动范围.cpp.s:
+	$(MAKE) -f CMakeFiles/59.dir/build.make CMakeFiles/59.dir/机器人的运动范围.cpp.s
+.PHONY : 机器人的运动范围.cpp.s
+
 构建乘积数组.o: 构建乘积数组.cpp.o
 
 .PHONY : 构建乘积数组.o
@@ -2253,6 +2319,33 @@ minHeap.cpp.s:
 	$(MAKE) -f CMakeFiles/45.dir/build.make CMakeFiles/45.dir/求1+2...+n.cpp.s
 .PHONY : 求1+2...+n.cpp.s
 
+滑动窗口的最大值.o: 滑动窗口的最大值.cpp.o
+
+.PHONY : 滑动窗口的最大值.o
+
+# target to build an object file
+滑动窗口的最大值.cpp.o:
+	$(MAKE) -f CMakeFiles/57.dir/build.make CMakeFiles/57.dir/滑动窗口的最大值.cpp.o
+.PHONY : 滑动窗口的最大值.cpp.o
+
+滑动窗口的最大值.i: 滑动窗口的最大值.cpp.i
+
+.PHONY : 滑动窗口的最大值.i
+
+# target to preprocess a source file
+滑动窗口的最大值.cpp.i:
+	$(MAKE) -f CMakeFiles/57.dir/build.make CMakeFiles/57.dir/滑动窗口的最大值.cpp.i
+.PHONY : 滑动窗口的最大值.cpp.i
+
+滑动窗口的最大值.s: 滑动窗口的最大值.cpp.s
+
+.PHONY : 滑动窗口的最大值.s
+
+# target to generate assembly for a file
+滑动窗口的最大值.cpp.s:
+	$(MAKE) -f CMakeFiles/57.dir/build.make CMakeFiles/57.dir/滑动窗口的最大值.cpp.s
+.PHONY : 滑动窗口的最大值.cpp.s
+
 用两个栈实现队列.o: 用两个栈实现队列.cpp.o
 
 .PHONY : 用两个栈实现队列.o
@@ -2306,6 +2399,33 @@ minHeap.cpp.s:
 矩形覆盖.cpp.s:
 	$(MAKE) -f CMakeFiles/10.dir/build.make CMakeFiles/10.dir/矩形覆盖.cpp.s
 .PHONY : 矩形覆盖.cpp.s
+
+矩阵中的路径.o: 矩阵中的路径.cpp.o
+
+.PHONY : 矩阵中的路径.o
+
+# target to build an object file
+矩阵中的路径.cpp.o:
+	$(MAKE) -f CMakeFiles/58.dir/build.make CMakeFiles/58.dir/矩阵中的路径.cpp.o
+.PHONY : 矩阵中的路径.cpp.o
+
+矩阵中的路径.i: 矩阵中的路径.cpp.i
+
+.PHONY : 矩阵中的路径.i
+
+# target to preprocess a source file
+矩阵中的路径.cpp.i:
+	$(MAKE) -f CMakeFiles/58.dir/build.make CMakeFiles/58.dir/矩阵中的路径.cpp.i
+.PHONY : 矩阵中的路径.cpp.i
+
+矩阵中的路径.s: 矩阵中的路径.cpp.s
+
+.PHONY : 矩阵中的路径.s
+
+# target to generate assembly for a file
+矩阵中的路径.cpp.s:
+	$(MAKE) -f CMakeFiles/58.dir/build.make CMakeFiles/58.dir/矩阵中的路径.cpp.s
+.PHONY : 矩阵中的路径.cpp.s
 
 第一个只出现一次的字符.o: 第一个只出现一次的字符.cpp.o
 
@@ -2558,6 +2678,8 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... 59"
+	@echo "... 58"
 	@echo "... 56"
 	@echo "... 54"
 	@echo "... 52"
@@ -2600,6 +2722,7 @@ help:
 	@echo "... 10"
 	@echo "... 13"
 	@echo "... 23"
+	@echo "... 57"
 	@echo "... min_heap"
 	@echo "... 12"
 	@echo "... 3"
@@ -2754,6 +2877,9 @@ help:
 	@echo "... 最小的k个数.o"
 	@echo "... 最小的k个数.i"
 	@echo "... 最小的k个数.s"
+	@echo "... 机器人的运动范围.o"
+	@echo "... 机器人的运动范围.i"
+	@echo "... 机器人的运动范围.s"
 	@echo "... 构建乘积数组.o"
 	@echo "... 构建乘积数组.i"
 	@echo "... 构建乘积数组.s"
@@ -2769,12 +2895,18 @@ help:
 	@echo "... 求1+2...+n.o"
 	@echo "... 求1+2...+n.i"
 	@echo "... 求1+2...+n.s"
+	@echo "... 滑动窗口的最大值.o"
+	@echo "... 滑动窗口的最大值.i"
+	@echo "... 滑动窗口的最大值.s"
 	@echo "... 用两个栈实现队列.o"
 	@echo "... 用两个栈实现队列.i"
 	@echo "... 用两个栈实现队列.s"
 	@echo "... 矩形覆盖.o"
 	@echo "... 矩形覆盖.i"
 	@echo "... 矩形覆盖.s"
+	@echo "... 矩阵中的路径.o"
+	@echo "... 矩阵中的路径.i"
+	@echo "... 矩阵中的路径.s"
 	@echo "... 第一个只出现一次的字符.o"
 	@echo "... 第一个只出现一次的字符.i"
 	@echo "... 第一个只出现一次的字符.s"

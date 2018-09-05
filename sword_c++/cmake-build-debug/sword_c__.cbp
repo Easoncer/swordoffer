@@ -37,6 +37,94 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="59">
+				<Option output="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/59" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 59"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="59/fast">
+				<Option output="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/59" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 59/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="58">
+				<Option output="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/58" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 58"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="58/fast">
+				<Option output="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/58" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 58/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="56">
 				<Option output="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/56" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug"/>
@@ -1885,6 +1973,50 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="57">
+				<Option output="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/57" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 57"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="57/fast">
+				<Option output="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/57" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 57/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="min_heap">
 				<Option output="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/min_heap" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug"/>
@@ -2857,6 +2989,9 @@
 		<Unit filename="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/最小的k个数.cpp">
 			<Option target="29"/>
 		</Unit>
+		<Unit filename="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/机器人的运动范围.cpp">
+			<Option target="59"/>
+		</Unit>
 		<Unit filename="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/构建乘积数组.cpp">
 			<Option target="48"/>
 		</Unit>
@@ -2872,11 +3007,17 @@
 		<Unit filename="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/求1+2...+n.cpp">
 			<Option target="45"/>
 		</Unit>
+		<Unit filename="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/滑动窗口的最大值.cpp">
+			<Option target="57"/>
+		</Unit>
 		<Unit filename="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/用两个栈实现队列.cpp">
 			<Option target="5"/>
 		</Unit>
 		<Unit filename="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/矩形覆盖.cpp">
 			<Option target="10"/>
+		</Unit>
+		<Unit filename="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/矩阵中的路径.cpp">
+			<Option target="58"/>
 		</Unit>
 		<Unit filename="/Users/lixiansheng/Documents/github/swordoffer/sword_c++/第一个只出现一次的字符.cpp">
 			<Option target="34"/>

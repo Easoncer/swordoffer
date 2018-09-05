@@ -63,4 +63,7 @@ add_executable(53 二叉树的下一个结点.cpp)
 add_executable(54 对称二叉树.cpp)
 add_executable(55 把二叉树打印成多行.cpp)
 add_executable(56 二叉搜索树的第k个结点.cpp)
+add_executable(57 滑动窗口的最大值.cpp)
+add_executable(58 矩阵中的路径.cpp)
+add_executable(59 机器人的运动范围.cpp)
 

@@ -65,13 +65,87 @@ CMAKE_SOURCE_DIR = /Users/lixiansheng/Documents/github/swordoffer/sword_c++
 CMAKE_BINARY_DIR = /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug
 
 #=============================================================================
+# Target rules for target CMakeFiles/59.dir
+
+# All Build rule for target.
+CMakeFiles/59.dir/all:
+	$(MAKE) -f CMakeFiles/59.dir/build.make CMakeFiles/59.dir/depend
+	$(MAKE) -f CMakeFiles/59.dir/build.make CMakeFiles/59.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=85 "Built target 59"
+.PHONY : CMakeFiles/59.dir/all
+
+# Include target in all.
+all: CMakeFiles/59.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/59.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/59.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/59.dir/rule
+
+# Convenience name for target.
+59: CMakeFiles/59.dir/rule
+
+.PHONY : 59
+
+# clean rule for target.
+CMakeFiles/59.dir/clean:
+	$(MAKE) -f CMakeFiles/59.dir/build.make CMakeFiles/59.dir/clean
+.PHONY : CMakeFiles/59.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/59.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/58.dir
+
+# All Build rule for target.
+CMakeFiles/58.dir/all:
+	$(MAKE) -f CMakeFiles/58.dir/build.make CMakeFiles/58.dir/depend
+	$(MAKE) -f CMakeFiles/58.dir/build.make CMakeFiles/58.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=83,84 "Built target 58"
+.PHONY : CMakeFiles/58.dir/all
+
+# Include target in all.
+all: CMakeFiles/58.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/58.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/58.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/58.dir/rule
+
+# Convenience name for target.
+58: CMakeFiles/58.dir/rule
+
+.PHONY : 58
+
+# clean rule for target.
+CMakeFiles/58.dir/clean:
+	$(MAKE) -f CMakeFiles/58.dir/build.make CMakeFiles/58.dir/clean
+.PHONY : CMakeFiles/58.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/58.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/56.dir
 
 # All Build rule for target.
 CMakeFiles/56.dir/all:
 	$(MAKE) -f CMakeFiles/56.dir/build.make CMakeFiles/56.dir/depend
 	$(MAKE) -f CMakeFiles/56.dir/build.make CMakeFiles/56.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=84,85 "Built target 56"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=80,81 "Built target 56"
 .PHONY : CMakeFiles/56.dir/all
 
 # Include target in all.
@@ -108,7 +182,7 @@ clean: CMakeFiles/56.dir/clean
 CMakeFiles/54.dir/all:
 	$(MAKE) -f CMakeFiles/54.dir/build.make CMakeFiles/54.dir/depend
 	$(MAKE) -f CMakeFiles/54.dir/build.make CMakeFiles/54.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=81 "Built target 54"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=77,78 "Built target 54"
 .PHONY : CMakeFiles/54.dir/all
 
 # Include target in all.
@@ -118,7 +192,7 @@ all: CMakeFiles/54.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/54.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/54.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/54.dir/rule
@@ -145,7 +219,7 @@ clean: CMakeFiles/54.dir/clean
 CMakeFiles/52.dir/all:
 	$(MAKE) -f CMakeFiles/52.dir/build.make CMakeFiles/52.dir/depend
 	$(MAKE) -f CMakeFiles/52.dir/build.make CMakeFiles/52.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=78 "Built target 52"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=74,75 "Built target 52"
 .PHONY : CMakeFiles/52.dir/all
 
 # Include target in all.
@@ -155,7 +229,7 @@ all: CMakeFiles/52.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/52.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/52.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/52.dir/rule
@@ -182,7 +256,7 @@ clean: CMakeFiles/52.dir/clean
 CMakeFiles/51.dir/all:
 	$(MAKE) -f CMakeFiles/51.dir/build.make CMakeFiles/51.dir/depend
 	$(MAKE) -f CMakeFiles/51.dir/build.make CMakeFiles/51.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=76,77 "Built target 51"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=72,73 "Built target 51"
 .PHONY : CMakeFiles/51.dir/all
 
 # Include target in all.
@@ -219,7 +293,7 @@ clean: CMakeFiles/51.dir/clean
 CMakeFiles/49.dir/all:
 	$(MAKE) -f CMakeFiles/49.dir/build.make CMakeFiles/49.dir/depend
 	$(MAKE) -f CMakeFiles/49.dir/build.make CMakeFiles/49.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=71,72 "Built target 49"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=68 "Built target 49"
 .PHONY : CMakeFiles/49.dir/all
 
 # Include target in all.
@@ -229,7 +303,7 @@ all: CMakeFiles/49.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/49.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/49.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/49.dir/rule
@@ -256,7 +330,7 @@ clean: CMakeFiles/49.dir/clean
 CMakeFiles/47.dir/all:
 	$(MAKE) -f CMakeFiles/47.dir/build.make CMakeFiles/47.dir/depend
 	$(MAKE) -f CMakeFiles/47.dir/build.make CMakeFiles/47.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=68 "Built target 47"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=65 "Built target 47"
 .PHONY : CMakeFiles/47.dir/all
 
 # Include target in all.
@@ -293,7 +367,7 @@ clean: CMakeFiles/47.dir/clean
 CMakeFiles/55.dir/all:
 	$(MAKE) -f CMakeFiles/55.dir/build.make CMakeFiles/55.dir/depend
 	$(MAKE) -f CMakeFiles/55.dir/build.make CMakeFiles/55.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=82,83 "Built target 55"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=79 "Built target 55"
 .PHONY : CMakeFiles/55.dir/all
 
 # Include target in all.
@@ -303,7 +377,7 @@ all: CMakeFiles/55.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/55.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/55.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/55.dir/rule
@@ -330,7 +404,7 @@ clean: CMakeFiles/55.dir/clean
 CMakeFiles/45.dir/all:
 	$(MAKE) -f CMakeFiles/45.dir/build.make CMakeFiles/45.dir/depend
 	$(MAKE) -f CMakeFiles/45.dir/build.make CMakeFiles/45.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=64,65 "Built target 45"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=61,62 "Built target 45"
 .PHONY : CMakeFiles/45.dir/all
 
 # Include target in all.
@@ -367,7 +441,7 @@ clean: CMakeFiles/45.dir/clean
 CMakeFiles/44.dir/all:
 	$(MAKE) -f CMakeFiles/44.dir/build.make CMakeFiles/44.dir/depend
 	$(MAKE) -f CMakeFiles/44.dir/build.make CMakeFiles/44.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=63 "Built target 44"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=60 "Built target 44"
 .PHONY : CMakeFiles/44.dir/all
 
 # Include target in all.
@@ -404,7 +478,7 @@ clean: CMakeFiles/44.dir/clean
 CMakeFiles/26.dir/all:
 	$(MAKE) -f CMakeFiles/26.dir/build.make CMakeFiles/26.dir/depend
 	$(MAKE) -f CMakeFiles/26.dir/build.make CMakeFiles/26.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=30,31 "Built target 26"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=29 "Built target 26"
 .PHONY : CMakeFiles/26.dir/all
 
 # Include target in all.
@@ -414,7 +488,7 @@ all: CMakeFiles/26.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/26.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/26.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/26.dir/rule
@@ -441,7 +515,7 @@ clean: CMakeFiles/26.dir/clean
 CMakeFiles/41.dir/all:
 	$(MAKE) -f CMakeFiles/41.dir/build.make CMakeFiles/41.dir/depend
 	$(MAKE) -f CMakeFiles/41.dir/build.make CMakeFiles/41.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=58,59 "Built target 41"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=55,56 "Built target 41"
 .PHONY : CMakeFiles/41.dir/all
 
 # Include target in all.
@@ -478,7 +552,7 @@ clean: CMakeFiles/41.dir/clean
 CMakeFiles/46.dir/all:
 	$(MAKE) -f CMakeFiles/46.dir/build.make CMakeFiles/46.dir/depend
 	$(MAKE) -f CMakeFiles/46.dir/build.make CMakeFiles/46.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=66,67 "Built target 46"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=63,64 "Built target 46"
 .PHONY : CMakeFiles/46.dir/all
 
 # Include target in all.
@@ -515,7 +589,7 @@ clean: CMakeFiles/46.dir/clean
 CMakeFiles/15.dir/all:
 	$(MAKE) -f CMakeFiles/15.dir/build.make CMakeFiles/15.dir/depend
 	$(MAKE) -f CMakeFiles/15.dir/build.make CMakeFiles/15.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=10,11 "Built target 15"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=10 "Built target 15"
 .PHONY : CMakeFiles/15.dir/all
 
 # Include target in all.
@@ -525,7 +599,7 @@ all: CMakeFiles/15.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/15.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/15.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/15.dir/rule
@@ -552,7 +626,7 @@ clean: CMakeFiles/15.dir/clean
 CMakeFiles/40.dir/all:
 	$(MAKE) -f CMakeFiles/40.dir/build.make CMakeFiles/40.dir/depend
 	$(MAKE) -f CMakeFiles/40.dir/build.make CMakeFiles/40.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=56,57 "Built target 40"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=54 "Built target 40"
 .PHONY : CMakeFiles/40.dir/all
 
 # Include target in all.
@@ -562,7 +636,7 @@ all: CMakeFiles/40.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/40.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/40.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/40.dir/rule
@@ -589,7 +663,7 @@ clean: CMakeFiles/40.dir/clean
 CMakeFiles/37.dir/all:
 	$(MAKE) -f CMakeFiles/37.dir/build.make CMakeFiles/37.dir/depend
 	$(MAKE) -f CMakeFiles/37.dir/build.make CMakeFiles/37.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=50 "Built target 37"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target 37"
 .PHONY : CMakeFiles/37.dir/all
 
 # Include target in all.
@@ -599,7 +673,7 @@ all: CMakeFiles/37.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/37.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/37.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/37.dir/rule
@@ -626,7 +700,7 @@ clean: CMakeFiles/37.dir/clean
 CMakeFiles/34.dir/all:
 	$(MAKE) -f CMakeFiles/34.dir/build.make CMakeFiles/34.dir/depend
 	$(MAKE) -f CMakeFiles/34.dir/build.make CMakeFiles/34.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=45 "Built target 34"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=43 "Built target 34"
 .PHONY : CMakeFiles/34.dir/all
 
 # Include target in all.
@@ -663,7 +737,7 @@ clean: CMakeFiles/34.dir/clean
 CMakeFiles/36.dir/all:
 	$(MAKE) -f CMakeFiles/36.dir/build.make CMakeFiles/36.dir/depend
 	$(MAKE) -f CMakeFiles/36.dir/build.make CMakeFiles/36.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=48,49 "Built target 36"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=46 "Built target 36"
 .PHONY : CMakeFiles/36.dir/all
 
 # Include target in all.
@@ -673,7 +747,7 @@ all: CMakeFiles/36.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/36.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/36.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/36.dir/rule
@@ -700,7 +774,7 @@ clean: CMakeFiles/36.dir/clean
 CMakeFiles/22.dir/all:
 	$(MAKE) -f CMakeFiles/22.dir/build.make CMakeFiles/22.dir/depend
 	$(MAKE) -f CMakeFiles/22.dir/build.make CMakeFiles/22.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target 22"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=22,23 "Built target 22"
 .PHONY : CMakeFiles/22.dir/all
 
 # Include target in all.
@@ -737,7 +811,7 @@ clean: CMakeFiles/22.dir/clean
 CMakeFiles/33.dir/all:
 	$(MAKE) -f CMakeFiles/33.dir/build.make CMakeFiles/33.dir/depend
 	$(MAKE) -f CMakeFiles/33.dir/build.make CMakeFiles/33.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target 33"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target 33"
 .PHONY : CMakeFiles/33.dir/all
 
 # Include target in all.
@@ -774,7 +848,7 @@ clean: CMakeFiles/33.dir/clean
 CMakeFiles/32.dir/all:
 	$(MAKE) -f CMakeFiles/32.dir/build.make CMakeFiles/32.dir/depend
 	$(MAKE) -f CMakeFiles/32.dir/build.make CMakeFiles/32.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target 32"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=40 "Built target 32"
 .PHONY : CMakeFiles/32.dir/all
 
 # Include target in all.
@@ -784,7 +858,7 @@ all: CMakeFiles/32.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/32.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/32.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/32.dir/rule
@@ -811,7 +885,7 @@ clean: CMakeFiles/32.dir/clean
 CMakeFiles/31.dir/all:
 	$(MAKE) -f CMakeFiles/31.dir/build.make CMakeFiles/31.dir/depend
 	$(MAKE) -f CMakeFiles/31.dir/build.make CMakeFiles/31.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=40 "Built target 31"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=38,39 "Built target 31"
 .PHONY : CMakeFiles/31.dir/all
 
 # Include target in all.
@@ -821,7 +895,7 @@ all: CMakeFiles/31.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/31.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/31.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/31.dir/rule
@@ -848,7 +922,7 @@ clean: CMakeFiles/31.dir/clean
 CMakeFiles/50.dir/all:
 	$(MAKE) -f CMakeFiles/50.dir/build.make CMakeFiles/50.dir/depend
 	$(MAKE) -f CMakeFiles/50.dir/build.make CMakeFiles/50.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=74,75 "Built target 50"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=71 "Built target 50"
 .PHONY : CMakeFiles/50.dir/all
 
 # Include target in all.
@@ -858,7 +932,7 @@ all: CMakeFiles/50.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/50.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/50.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/50.dir/rule
@@ -885,7 +959,7 @@ clean: CMakeFiles/50.dir/clean
 CMakeFiles/30.dir/all:
 	$(MAKE) -f CMakeFiles/30.dir/build.make CMakeFiles/30.dir/depend
 	$(MAKE) -f CMakeFiles/30.dir/build.make CMakeFiles/30.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=38,39 "Built target 30"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=36,37 "Built target 30"
 .PHONY : CMakeFiles/30.dir/all
 
 # Include target in all.
@@ -922,7 +996,7 @@ clean: CMakeFiles/30.dir/clean
 CMakeFiles/43.dir/all:
 	$(MAKE) -f CMakeFiles/43.dir/build.make CMakeFiles/43.dir/depend
 	$(MAKE) -f CMakeFiles/43.dir/build.make CMakeFiles/43.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=61,62 "Built target 43"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=58,59 "Built target 43"
 .PHONY : CMakeFiles/43.dir/all
 
 # Include target in all.
@@ -959,7 +1033,7 @@ clean: CMakeFiles/43.dir/clean
 CMakeFiles/5.dir/all:
 	$(MAKE) -f CMakeFiles/5.dir/build.make CMakeFiles/5.dir/depend
 	$(MAKE) -f CMakeFiles/5.dir/build.make CMakeFiles/5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=73 "Built target 5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=69,70 "Built target 5"
 .PHONY : CMakeFiles/5.dir/all
 
 # Include target in all.
@@ -969,7 +1043,7 @@ all: CMakeFiles/5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/5.dir/rule
@@ -996,7 +1070,7 @@ clean: CMakeFiles/5.dir/clean
 CMakeFiles/39.dir/all:
 	$(MAKE) -f CMakeFiles/39.dir/build.make CMakeFiles/39.dir/depend
 	$(MAKE) -f CMakeFiles/39.dir/build.make CMakeFiles/39.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target 39"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=51 "Built target 39"
 .PHONY : CMakeFiles/39.dir/all
 
 # Include target in all.
@@ -1006,7 +1080,7 @@ all: CMakeFiles/39.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/39.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/39.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/39.dir/rule
@@ -1033,7 +1107,7 @@ clean: CMakeFiles/39.dir/clean
 CMakeFiles/29.dir/all:
 	$(MAKE) -f CMakeFiles/29.dir/build.make CMakeFiles/29.dir/depend
 	$(MAKE) -f CMakeFiles/29.dir/build.make CMakeFiles/29.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target 29"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target 29"
 .PHONY : CMakeFiles/29.dir/all
 
 # Include target in all.
@@ -1070,7 +1144,7 @@ clean: CMakeFiles/29.dir/clean
 CMakeFiles/20.dir/all:
 	$(MAKE) -f CMakeFiles/20.dir/build.make CMakeFiles/20.dir/depend
 	$(MAKE) -f CMakeFiles/20.dir/build.make CMakeFiles/20.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=20,21 "Built target 20"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 20"
 .PHONY : CMakeFiles/20.dir/all
 
 # Include target in all.
@@ -1107,7 +1181,7 @@ clean: CMakeFiles/20.dir/clean
 CMakeFiles/19.dir/all:
 	$(MAKE) -f CMakeFiles/19.dir/build.make CMakeFiles/19.dir/depend
 	$(MAKE) -f CMakeFiles/19.dir/build.make CMakeFiles/19.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target 19"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=16,17 "Built target 19"
 .PHONY : CMakeFiles/19.dir/all
 
 # Include target in all.
@@ -1144,7 +1218,7 @@ clean: CMakeFiles/19.dir/clean
 CMakeFiles/14.dir/all:
 	$(MAKE) -f CMakeFiles/14.dir/build.make CMakeFiles/14.dir/depend
 	$(MAKE) -f CMakeFiles/14.dir/build.make CMakeFiles/14.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=9 "Built target 14"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=8,9 "Built target 14"
 .PHONY : CMakeFiles/14.dir/all
 
 # Include target in all.
@@ -1154,7 +1228,7 @@ all: CMakeFiles/14.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/14.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/14.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/14.dir/rule
@@ -1181,7 +1255,7 @@ clean: CMakeFiles/14.dir/clean
 CMakeFiles/18.dir/all:
 	$(MAKE) -f CMakeFiles/18.dir/build.make CMakeFiles/18.dir/depend
 	$(MAKE) -f CMakeFiles/18.dir/build.make CMakeFiles/18.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target 18"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=15 "Built target 18"
 .PHONY : CMakeFiles/18.dir/all
 
 # Include target in all.
@@ -1191,7 +1265,7 @@ all: CMakeFiles/18.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/18.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/18.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/18.dir/rule
@@ -1218,7 +1292,7 @@ clean: CMakeFiles/18.dir/clean
 CMakeFiles/35.dir/all:
 	$(MAKE) -f CMakeFiles/35.dir/build.make CMakeFiles/35.dir/depend
 	$(MAKE) -f CMakeFiles/35.dir/build.make CMakeFiles/35.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=46,47 "Built target 35"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=44,45 "Built target 35"
 .PHONY : CMakeFiles/35.dir/all
 
 # Include target in all.
@@ -1255,7 +1329,7 @@ clean: CMakeFiles/35.dir/clean
 CMakeFiles/17.dir/all:
 	$(MAKE) -f CMakeFiles/17.dir/build.make CMakeFiles/17.dir/depend
 	$(MAKE) -f CMakeFiles/17.dir/build.make CMakeFiles/17.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=14 "Built target 17"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 17"
 .PHONY : CMakeFiles/17.dir/all
 
 # Include target in all.
@@ -1265,7 +1339,7 @@ all: CMakeFiles/17.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/17.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/17.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/17.dir/rule
@@ -1292,7 +1366,7 @@ clean: CMakeFiles/17.dir/clean
 CMakeFiles/16.dir/all:
 	$(MAKE) -f CMakeFiles/16.dir/build.make CMakeFiles/16.dir/depend
 	$(MAKE) -f CMakeFiles/16.dir/build.make CMakeFiles/16.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=12,13 "Built target 16"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 16"
 .PHONY : CMakeFiles/16.dir/all
 
 # Include target in all.
@@ -1329,7 +1403,7 @@ clean: CMakeFiles/16.dir/clean
 CMakeFiles/42.dir/all:
 	$(MAKE) -f CMakeFiles/42.dir/build.make CMakeFiles/42.dir/depend
 	$(MAKE) -f CMakeFiles/42.dir/build.make CMakeFiles/42.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=60 "Built target 42"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=57 "Built target 42"
 .PHONY : CMakeFiles/42.dir/all
 
 # Include target in all.
@@ -1366,7 +1440,7 @@ clean: CMakeFiles/42.dir/clean
 CMakeFiles/38.dir/all:
 	$(MAKE) -f CMakeFiles/38.dir/build.make CMakeFiles/38.dir/depend
 	$(MAKE) -f CMakeFiles/38.dir/build.make CMakeFiles/38.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=51,52 "Built target 38"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target 38"
 .PHONY : CMakeFiles/38.dir/all
 
 # Include target in all.
@@ -1403,7 +1477,7 @@ clean: CMakeFiles/38.dir/clean
 CMakeFiles/53.dir/all:
 	$(MAKE) -f CMakeFiles/53.dir/build.make CMakeFiles/53.dir/depend
 	$(MAKE) -f CMakeFiles/53.dir/build.make CMakeFiles/53.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=79,80 "Built target 53"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=76 "Built target 53"
 .PHONY : CMakeFiles/53.dir/all
 
 # Include target in all.
@@ -1413,7 +1487,7 @@ all: CMakeFiles/53.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/53.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/53.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/53.dir/rule
@@ -1440,7 +1514,7 @@ clean: CMakeFiles/53.dir/clean
 CMakeFiles/2.dir/all:
 	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/depend
 	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=19 "Built target 2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=18 "Built target 2"
 .PHONY : CMakeFiles/2.dir/all
 
 # Include target in all.
@@ -1477,7 +1551,7 @@ clean: CMakeFiles/2.dir/clean
 CMakeFiles/28.dir/all:
 	$(MAKE) -f CMakeFiles/28.dir/build.make CMakeFiles/28.dir/depend
 	$(MAKE) -f CMakeFiles/28.dir/build.make CMakeFiles/28.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target 28"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=32 "Built target 28"
 .PHONY : CMakeFiles/28.dir/all
 
 # Include target in all.
@@ -1487,7 +1561,7 @@ all: CMakeFiles/28.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/28.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/28.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/28.dir/rule
@@ -1551,7 +1625,7 @@ clean: CMakeFiles/10.dir/clean
 CMakeFiles/13.dir/all:
 	$(MAKE) -f CMakeFiles/13.dir/build.make CMakeFiles/13.dir/depend
 	$(MAKE) -f CMakeFiles/13.dir/build.make CMakeFiles/13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target 13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=7 "Built target 13"
 .PHONY : CMakeFiles/13.dir/all
 
 # Include target in all.
@@ -1561,7 +1635,7 @@ all: CMakeFiles/13.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/13.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/13.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/13.dir/rule
@@ -1588,7 +1662,7 @@ clean: CMakeFiles/13.dir/clean
 CMakeFiles/23.dir/all:
 	$(MAKE) -f CMakeFiles/23.dir/build.make CMakeFiles/23.dir/depend
 	$(MAKE) -f CMakeFiles/23.dir/build.make CMakeFiles/23.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target 23"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=24,25 "Built target 23"
 .PHONY : CMakeFiles/23.dir/all
 
 # Include target in all.
@@ -1615,6 +1689,43 @@ CMakeFiles/23.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/23.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/57.dir
+
+# All Build rule for target.
+CMakeFiles/57.dir/all:
+	$(MAKE) -f CMakeFiles/57.dir/build.make CMakeFiles/57.dir/depend
+	$(MAKE) -f CMakeFiles/57.dir/build.make CMakeFiles/57.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=82 "Built target 57"
+.PHONY : CMakeFiles/57.dir/all
+
+# Include target in all.
+all: CMakeFiles/57.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/57.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/57.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/57.dir/rule
+
+# Convenience name for target.
+57: CMakeFiles/57.dir/rule
+
+.PHONY : 57
+
+# clean rule for target.
+CMakeFiles/57.dir/clean:
+	$(MAKE) -f CMakeFiles/57.dir/build.make CMakeFiles/57.dir/clean
+.PHONY : CMakeFiles/57.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/57.dir/clean
 
 .PHONY : clean
 
@@ -1699,7 +1810,7 @@ clean: CMakeFiles/12.dir/clean
 CMakeFiles/3.dir/all:
 	$(MAKE) -f CMakeFiles/3.dir/build.make CMakeFiles/3.dir/depend
 	$(MAKE) -f CMakeFiles/3.dir/build.make CMakeFiles/3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=37 "Built target 3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=35 "Built target 3"
 .PHONY : CMakeFiles/3.dir/all
 
 # Include target in all.
@@ -1736,7 +1847,7 @@ clean: CMakeFiles/3.dir/clean
 CMakeFiles/48.dir/all:
 	$(MAKE) -f CMakeFiles/48.dir/build.make CMakeFiles/48.dir/depend
 	$(MAKE) -f CMakeFiles/48.dir/build.make CMakeFiles/48.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=69,70 "Built target 48"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=66,67 "Built target 48"
 .PHONY : CMakeFiles/48.dir/all
 
 # Include target in all.
@@ -1810,7 +1921,7 @@ clean: CMakeFiles/11.dir/clean
 CMakeFiles/8.dir/all:
 	$(MAKE) -f CMakeFiles/8.dir/build.make CMakeFiles/8.dir/depend
 	$(MAKE) -f CMakeFiles/8.dir/build.make CMakeFiles/8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=89,90 "Built target 8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=90 "Built target 8"
 .PHONY : CMakeFiles/8.dir/all
 
 # Include target in all.
@@ -1820,7 +1931,7 @@ all: CMakeFiles/8.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/8.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/8.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/8.dir/rule
@@ -1847,7 +1958,7 @@ clean: CMakeFiles/8.dir/clean
 CMakeFiles/7.dir/all:
 	$(MAKE) -f CMakeFiles/7.dir/build.make CMakeFiles/7.dir/depend
 	$(MAKE) -f CMakeFiles/7.dir/build.make CMakeFiles/7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=87,88 "Built target 7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=88,89 "Built target 7"
 .PHONY : CMakeFiles/7.dir/all
 
 # Include target in all.
@@ -1884,7 +1995,7 @@ clean: CMakeFiles/7.dir/clean
 CMakeFiles/24.dir/all:
 	$(MAKE) -f CMakeFiles/24.dir/build.make CMakeFiles/24.dir/depend
 	$(MAKE) -f CMakeFiles/24.dir/build.make CMakeFiles/24.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=27 "Built target 24"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=26 "Built target 24"
 .PHONY : CMakeFiles/24.dir/all
 
 # Include target in all.
@@ -1921,7 +2032,7 @@ clean: CMakeFiles/24.dir/clean
 CMakeFiles/6.dir/all:
 	$(MAKE) -f CMakeFiles/6.dir/build.make CMakeFiles/6.dir/depend
 	$(MAKE) -f CMakeFiles/6.dir/build.make CMakeFiles/6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=86 "Built target 6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=86,87 "Built target 6"
 .PHONY : CMakeFiles/6.dir/all
 
 # Include target in all.
@@ -1931,7 +2042,7 @@ all: CMakeFiles/6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/6.dir/rule
@@ -1958,7 +2069,7 @@ clean: CMakeFiles/6.dir/clean
 CMakeFiles/27.dir/all:
 	$(MAKE) -f CMakeFiles/27.dir/build.make CMakeFiles/27.dir/depend
 	$(MAKE) -f CMakeFiles/27.dir/build.make CMakeFiles/27.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=32 "Built target 27"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=30,31 "Built target 27"
 .PHONY : CMakeFiles/27.dir/all
 
 # Include target in all.
@@ -1968,7 +2079,7 @@ all: CMakeFiles/27.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/27.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/27.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/27.dir/rule
@@ -1995,7 +2106,7 @@ clean: CMakeFiles/27.dir/clean
 CMakeFiles/21.dir/all:
 	$(MAKE) -f CMakeFiles/21.dir/build.make CMakeFiles/21.dir/depend
 	$(MAKE) -f CMakeFiles/21.dir/build.make CMakeFiles/21.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=22 "Built target 21"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=21 "Built target 21"
 .PHONY : CMakeFiles/21.dir/all
 
 # Include target in all.
@@ -2106,7 +2217,7 @@ clean: CMakeFiles/1.dir/clean
 CMakeFiles/4.dir/all:
 	$(MAKE) -f CMakeFiles/4.dir/build.make CMakeFiles/4.dir/depend
 	$(MAKE) -f CMakeFiles/4.dir/build.make CMakeFiles/4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=55 "Built target 4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=52,53 "Built target 4"
 .PHONY : CMakeFiles/4.dir/all
 
 # Include target in all.
@@ -2116,7 +2227,7 @@ all: CMakeFiles/4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/4.dir/rule
@@ -2143,7 +2254,7 @@ clean: CMakeFiles/4.dir/clean
 CMakeFiles/9.dir/all:
 	$(MAKE) -f CMakeFiles/9.dir/build.make CMakeFiles/9.dir/depend
 	$(MAKE) -f CMakeFiles/9.dir/build.make CMakeFiles/9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=91 "Built target 9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=91,92 "Built target 9"
 .PHONY : CMakeFiles/9.dir/all
 
 # Include target in all.
@@ -2153,7 +2264,7 @@ all: CMakeFiles/9.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/9.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/9.dir/rule
@@ -2217,7 +2328,7 @@ clean: CMakeFiles/floyd.dir/clean
 CMakeFiles/Dijkstra.dir/all:
 	$(MAKE) -f CMakeFiles/Dijkstra.dir/build.make CMakeFiles/Dijkstra.dir/depend
 	$(MAKE) -f CMakeFiles/Dijkstra.dir/build.make CMakeFiles/Dijkstra.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=92,93 "Built target Dijkstra"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=93 "Built target Dijkstra"
 .PHONY : CMakeFiles/Dijkstra.dir/all
 
 # Include target in all.
@@ -2227,7 +2338,7 @@ all: CMakeFiles/Dijkstra.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Dijkstra.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Dijkstra.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Dijkstra.dir/rule
@@ -2254,7 +2365,7 @@ clean: CMakeFiles/Dijkstra.dir/clean
 CMakeFiles/25.dir/all:
 	$(MAKE) -f CMakeFiles/25.dir/build.make CMakeFiles/25.dir/depend
 	$(MAKE) -f CMakeFiles/25.dir/build.make CMakeFiles/25.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=28,29 "Built target 25"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lixiansheng/Documents/github/swordoffer/sword_c++/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target 25"
 .PHONY : CMakeFiles/25.dir/all
 
 # Include target in all.
