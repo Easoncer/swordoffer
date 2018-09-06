@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 60
+
+# Build rule for target.
+60: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 60
+.PHONY : 60
+
+# fast build rule for target.
+60/fast:
+	$(MAKE) -f CMakeFiles/60.dir/build.make CMakeFiles/60.dir/build
+.PHONY : 60/fast
+
+#=============================================================================
 # Target rules for targets named 59
 
 # Build rule for target.
@@ -2481,6 +2494,33 @@ minHeap.cpp.s:
 	$(MAKE) -f CMakeFiles/43.dir/build.make CMakeFiles/43.dir/翻转单词序列.cpp.s
 .PHONY : 翻转单词序列.cpp.s
 
+股票的最大利润.o: 股票的最大利润.cpp.o
+
+.PHONY : 股票的最大利润.o
+
+# target to build an object file
+股票的最大利润.cpp.o:
+	$(MAKE) -f CMakeFiles/60.dir/build.make CMakeFiles/60.dir/股票的最大利润.cpp.o
+.PHONY : 股票的最大利润.cpp.o
+
+股票的最大利润.i: 股票的最大利润.cpp.i
+
+.PHONY : 股票的最大利润.i
+
+# target to preprocess a source file
+股票的最大利润.cpp.i:
+	$(MAKE) -f CMakeFiles/60.dir/build.make CMakeFiles/60.dir/股票的最大利润.cpp.i
+.PHONY : 股票的最大利润.cpp.i
+
+股票的最大利润.s: 股票的最大利润.cpp.s
+
+.PHONY : 股票的最大利润.s
+
+# target to generate assembly for a file
+股票的最大利润.cpp.s:
+	$(MAKE) -f CMakeFiles/60.dir/build.make CMakeFiles/60.dir/股票的最大利润.cpp.s
+.PHONY : 股票的最大利润.cpp.s
+
 调整数组顺序使奇数位于偶数前面.o: 调整数组顺序使奇数位于偶数前面.cpp.o
 
 .PHONY : 调整数组顺序使奇数位于偶数前面.o
@@ -2678,6 +2718,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... 60"
 	@echo "... 59"
 	@echo "... 58"
 	@echo "... 56"
@@ -2913,6 +2954,9 @@ help:
 	@echo "... 翻转单词序列.o"
 	@echo "... 翻转单词序列.i"
 	@echo "... 翻转单词序列.s"
+	@echo "... 股票的最大利润.o"
+	@echo "... 股票的最大利润.i"
+	@echo "... 股票的最大利润.s"
 	@echo "... 调整数组顺序使奇数位于偶数前面.o"
 	@echo "... 调整数组顺序使奇数位于偶数前面.i"
 	@echo "... 调整数组顺序使奇数位于偶数前面.s"

@@ -66,4 +66,5 @@ add_executable(56 二叉搜索树的第k个结点.cpp)
 add_executable(57 滑动窗口的最大值.cpp)
 add_executable(58 矩阵中的路径.cpp)
 add_executable(59 机器人的运动范围.cpp)
+add_executable(60 股票的最大利润.cpp)
 
